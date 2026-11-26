@@ -1,6 +1,6 @@
 ---
 name: offer-profitability
-description: Evaluate one price, discount or ad-funded one-time offer, or reconcile its actual order and cost CSVs. Use delivery costs, refunds, fees, acquisition cost and capacity to compute auditable contribution, identify missing costs and test break-even thresholds. Supports recorded cohorts and conditional proposals, not demand forecasts or subscription lifetime value.
+description: "Will this price, discount or ad make me money? Check one offer before launching it, or see what past orders really earned from order and cost CSVs. Use when a founder asks: is my price too low, can I afford this discount or promo, am I losing money on each sale, what does each order cost me after fees, refunds, shipping and ads, how many sales do I need to break even. Works per offer; not for demand forecasts or subscription lifetime value."
 ---
 
 # Offer profitability

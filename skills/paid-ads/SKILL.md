@@ -10,7 +10,7 @@ Built from 539 practitioner threads, about 1,400 extracted tactics (r/FacebookAd
 ## How paid ads actually work in 2026
 
 - **The algorithm does the targeting; you supply signal and creative.** Meta's Andromeda retrieval now scores over one billion eligible ads per second, about 100x its 2024 system, and Meta credits it with +2.4% Facebook conversions since 2025 ([Meta Engineering, Oct 2026](https://engineering.fb.com/2026/10/28/ml-applications/meta-andromeda-next-gen-ads-retrieval-gpu-co-design/)). Interest stacks and 15 small ad sets lose to broad delivery fed by many distinct concepts.
-- **Most creatives fail, so volume of distinct ideas wins.** Only 5 to 8% of Meta creatives become winners (10x account-median spend) across 578,750 creatives and $1.29B of spend ([Motion 2026](https://go.motionapp.com/benchmarks-paid)). A 20% hit rate on 5 ads gives 1 winner; 10% on 50 gives 5.
+- **Most creatives fail, so volume of distinct ideas wins.** Only 5 to 8% of Meta creatives become winners (10x account-median spend) across 578,750 creatives and $1.29B of spend ([Motion 2026](https://go.motionapp.com/benchmarks-paid), reported by Motion, not independently checked). A 20% hit rate on 5 ads gives 1 winner; 10% on 50 gives 5.
 - **The platform optimizes whatever event you feed it.** Feed it raw form fills and it buys form fillers. A $20 lead closing at 2% costs $1,000 per customer; a $60 lead closing at 15% costs $400 (illustrative arithmetic). Send qualified, booked and won events back.
 - **Every platform has a learning floor in conversions.** Google judges Smart Bidding on 30 conversions (50 for tROAS); Meta's guidance is about 50 events per 7 days per ad set; TikTok Smart+ wants 10x CPA a day (30x with a target); Pinterest wants 50 conversions a week and 5x CPA a day. Below the floor, consolidate or pick another channel; never fragment.
 - **Search harvests demand, social creates it.** Google wins where people already search (urgent services, named products, "near me"). Meta and TikTok win where the product can be shown and the buyer did not know to look.
@@ -126,7 +126,7 @@ Depth: [references/tiktok-and-other-channels.md](references/tiktok-and-other-cha
 | Meta test structure | ABO per concept vs one CBO for all | Meta: consolidate to reach event density | Testing CBO with ad-set minimums, or ABO at 1 to 2 expected conversions a day per ad set; graduate winners |
 | Kill threshold | $20, 2x AOV, 3x CPA | Statistics: zero conversions at 3x target is still about 5% likely by chance | Staged stop rule above; concept dies after 3 failed executions |
 | Scaling step | 5% to 50% | TikTok up to 30% at 90% budget use; Pinterest 20 to 30% | +20% every 3 to 4 days, smaller above $500/day, or horizontal duplication |
-| UGC vs statics | UGC always wins | Motion 2026: text-only 11.6% hit rate, UGC 7.6%, high production 7.0% | Run a low-fi static lane and a video lane; validate concepts as statics first |
+| UGC vs statics | UGC always wins | Motion 2026 (reported by Motion, not independently checked): text-only 11.6% hit rate, UGC 7.6%, high production 7.0% | Run a low-fi static lane and a video lane; validate concepts as statics first |
 | PMax | Junk for local leads | Google: PMax with offline quality feedback | Search first; PMax only with brand exclusions and CRM-graded leads |
 | Platform ROAS | "Ads Manager says 4x" | Meta overreports 15 to 30% vs server truth (operators); windows overlap | Decide budgets on MER and blended CAC |
 

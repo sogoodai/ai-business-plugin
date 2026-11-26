@@ -31,7 +31,7 @@ completed CAC = spend / completed first jobs
 GP CAC      = spend / first-job gross profit  (below 1.0 = first job pays for the lead)
 ```
 
-Worked (illustrative, from the research pass): a $50 lead that books 20% costs $250 a job; a $90 lead that books 60% costs $150. A $46.99 cleaning lead booking 15% costs $313; a $129 plumbing lead booking 55% costs $235 (LocaliQ 2025 CPLs, Invoca 2026 call conversion; definitions differ, so this is a sanity check, not a matched comparison).
+Worked (illustrative, from the research pass): a $50 lead that books 20% costs $250 a job; a $90 lead that books 60% costs $150. A $46.99 cleaning lead booking 15% costs $313; a $129 plumbing lead booking 55% costs $235 (LocaliQ 2025 CPLs, Invoca 2026 trade-level call conversion; definitions differ, so this is a sanity check, not a matched comparison; trade split reported by Invoca, not independently checked).
 
 Shared marketplace leads: `effective cost per job = lead price / (P(you reach them first) x close rate)`. A $50 lead shared with four rivals, 20% chance you win the conversation, 30% close once talking = $833 per booked job (agency illustration, 2026). This is why marketplaces lose to fast-answered LSA and referrals for most trades.
 

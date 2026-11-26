@@ -16,7 +16,7 @@ Each trade: the growth engine, the numbers we have, and what is specific. Data g
 ## Lawn care and landscaping
 
 - Engine: density. Door knock one subdivision, park the trailer and mow house to house (30 to 40 yards a day at $50, r/sweatystartup 445); 25 to 40 dense fertilization stops a day (Glacier Lake Partners 2026).
-- Numbers: search CPL $117.92 (LocaliQ 2025); LSA landscaping about $37 (99 Calls 2026); lawn and tree phone leads convert 54% on the call (Invoca 2026).
+- Numbers: search CPL $117.92 (LocaliQ 2025); LSA landscaping about $37 (99 Calls 2026); lawn and tree phone leads convert 54% on the call (Invoca 2026, reported by Invoca, not independently checked).
 - Specific: recently sold homes on small lots are the best door-knock list; seasonal agreements paid monthly; referral rewards by adjacency; inspect before quoting (a $40 lawn that took 3 hours, r/sweatystartup 43); pre-sell the season in late winter; leaf cleanup and snow (where relevant) bridge the off-season. Gratitude pricing to early customers is a common leak.
 
 ## Pressure washing, soft washing and window cleaning
@@ -34,7 +34,7 @@ Each trade: the growth engine, the numbers we have, and what is specific. Data g
 ## Pest control
 
 - Engine: annual or quarterly contracts, direct mail repeated to the same streets, door-to-door with real neighbor proof, LSA.
-- Numbers: pest phone leads convert 55% on the call (Invoca 2026); annual contracts of $500 to $800 where price cuts rarely saved a sale (r/sweatystartup 188); mailers at about $0.70 per address pulled calls from 3 to 5% of homes (r/pressurewashing 338).
+- Numbers: pest phone leads convert 55% on the call (Invoca 2026, reported by Invoca, not independently checked); annual contracts of $500 to $800 where price cuts rarely saved a sale (r/sweatystartup 188); mailers at about $0.70 per address pulled calls from 3 to 5% of homes (r/pressurewashing 338).
 - Specific: launch seasonal treatment plans before pressure peaks; convert the first incident into quarterly protection; one mosquito business reached about 200 customers and CAD 100,000 in six months (GorillaDesk case, single vendor story).
 
 ## Handyman
@@ -69,13 +69,13 @@ Each trade: the growth engine, the numbers we have, and what is specific. Data g
 ## Plumbing
 
 - Engine: LSA, Google Search, maps, vehicles, emergency availability, rural and dirty jobs rivals avoid (one plumber did $69,000 in his first four months and $110,000 the next quarter, r/sweatystartup 373).
-- Numbers: search CPL $129.02 (LocaliQ 2025); LSA $57 (SearchLight Feb 2026); plumbing phone leads convert 55% on the call (Invoca 2026); ServiceTitan average-ticket target $500+ (dated).
+- Numbers: search CPL $129.02 (LocaliQ 2025); LSA $57 (SearchLight Feb 2026); plumbing phone leads convert 55% on the call (Invoca 2026, reported by Invoca, not independently checked); ServiceTitan average-ticket target $500+ (dated).
 - Specific: $99 drain-cleaning offers only work if camera inspections and replacements follow; drain-only franchises reportedly failed on lead cost (r/sweatystartup 17); camera inspections sell the explanation.
 
 ## HVAC
 
 - Engine: maintenance agreements, LSA, seasonal shoulder-month tune-ups, financing, Good-better-best.
-- Numbers: LSA $51 (SearchLight Feb 2026); HVAC converts 43% on the call (Invoca 2026), slowest replies of any trade (11% within an hour, Jobber 2026), 83% raised prices; repair share of revenue rose to 31.3% by Q4 2025 (Housecall Pro); average-ticket target $375+ (ServiceTitan, dated).
+- Numbers: LSA $51 (SearchLight Feb 2026); HVAC converts 43% on the call (Invoca 2026, reported by Invoca, not independently checked), slowest replies of any trade (11% within an hour, Jobber 2026), 83% raised prices; repair share of revenue rose to 31.3% by Q4 2025 (Housecall Pro); average-ticket target $375+ (ServiceTitan, dated).
 - Specific: tune-ups and plan sales in spring and fall, emergency capture in heat and cold waves; photographed wear and replacement timelines; include every cost in commercial replacement quotes (callback allowance, refrigerant, drive time, rentals: one 18-tech firm cleared 8%, r/sweatystartup 41); sticker every unit.
 
 ## Electrical

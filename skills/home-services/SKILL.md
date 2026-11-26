@@ -53,7 +53,7 @@ Report the three biggest leaks in money. A typical first finding: missed calls a
 | Metric | Typical | Strong | Source |
 |---|---|---|---|
 | Calls answered by a person | 52% | 90%+ is the LSA operating target | Invoca 2026; harvest (localseoskills, MIT) |
-| Leads converting on the call | 45% (plumbing 55, pest 55, lawn/tree 54, HVAC 43) | paid search 48% | Invoca 2026 |
+| Leads converting on the call | 45% (plumbing 55, pest 55, lawn/tree 54, HVAC 43) | paid search 48% | Invoca 2026; trade split reported by Invoca, not independently checked |
 | Reply within 1 hour | 20% of pros | top businesses average under 60 min | Jobber 2026 |
 | Quote win rate | 69% of owners win over half | Jobber top performers over 60%; near 100% = underpriced | Jobber 2026 |
 | Google Search CPL | $90.92 all home services; cleaning $46.99, plumbing $129.02, painting $138.38 | | LocaliQ 2025 (Apr 2024 to Mar 2025) |

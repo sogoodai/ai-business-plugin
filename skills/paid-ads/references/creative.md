@@ -1,10 +1,10 @@
 # Creative: hooks, formats, angles and briefs
 
-Creative is the main targeting input on Meta and TikTok and the main lever you control. Manage it as a portfolio of independent hypotheses: only 5 to 8% of Meta creatives become winners ([Motion 2026](https://go.motionapp.com/benchmarks-paid)).
+Creative is the main targeting input on Meta and TikTok and the main lever you control. Manage it as a portfolio of independent hypotheses: only 5 to 8% of Meta creatives become winners ([Motion 2026](https://go.motionapp.com/benchmarks-paid), reported by Motion, not independently checked).
 
 ## What the data says about formats
 
-Motion 2026, 578,750 Meta creatives, hit rate = share reaching 10x account-median spend (observational, mix-dependent):
+Motion 2026 (reported by Motion, not independently checked), 578,750 Meta creatives, hit rate = share reaching 10x account-median spend (observational, mix-dependent):
 
 | Asset type | Hit rate |
 |---|---|

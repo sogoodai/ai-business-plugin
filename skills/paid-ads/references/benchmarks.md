@@ -125,9 +125,9 @@ The two ecommerce ROAS figures (1.88x and 2.55x) are different samples, not a co
 
 | Metric | Value | Source | Year |
 |---|---|---|---|
-| Share of Meta creatives that become winners (10x account-median spend) | 5 to 8% | [Motion](https://go.motionapp.com/benchmarks-paid), 578,750 creatives, 6,015 accounts, $1.29B | 2026 |
-| Hit rate by asset type | text-only 11.60%, product image with text 8.75%, UGC 7.56%, high production 6.97%, animation 4.57% | [Motion](https://runneth.com/thumbstop-pulse/creative-benchmarks-2026) | 2026 |
-| Hit rate by visual structure | unboxing 9.83%, offer-first banner 8.68%, behind the scenes 8.64%, founder 8.57%, POV 8.28%, demo 8.11%, testimonial 6.57% | [Motion](https://runneth.com/library/formats/) | 2026 |
+| Share of Meta creatives that become winners (10x account-median spend) | 5 to 8% | [Motion](https://go.motionapp.com/benchmarks-paid), 578,750 creatives, 6,015 accounts, $1.29B (reported by Motion, not independently checked) | 2026 |
+| Hit rate by asset type | text-only 11.60%, product image with text 8.75%, UGC 7.56%, high production 6.97%, animation 4.57% | [Motion](https://runneth.com/thumbstop-pulse/creative-benchmarks-2026) (reported by Motion, not independently checked) | 2026 |
+| Hit rate by visual structure | unboxing 9.83%, offer-first banner 8.68%, behind the scenes 8.64%, founder 8.57%, POV 8.28%, demo 8.11%, testimonial 6.57% | [Motion](https://runneth.com/library/formats/) (reported by Motion, not independently checked) | 2026 |
 | Meta image generation tools | about +7% conversions (Meta aggregate) | Meta Engineering, Dec 2024, possibly dated | 2024 |
 | RSA: second RSA in an ad group | +6.6% conversions at similar CPA; third RSA +3.7% | [Google](https://support.google.com/google-ads/answer/6167115) (platform observational) | 2026 |
 | RSA Ad Strength | "Excellent" $28.68 CPA, 4.97% CVR vs "Average" $12.43 CPA, 12.65% CVR | Optmyzr, about 20,000 accounts, via r/PPC | 2026 |

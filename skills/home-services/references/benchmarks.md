@@ -15,8 +15,8 @@ Compare a business with its own trade and its local top 3 before any national nu
 | Inbound home-service calls reaching a person | 52% | 73% for calls lasting over 30 sec | [Invoca home services](https://www.invoca.com/reports/the-invoca-call-conversion-benchmarks-report-home-services-2025) | 2026 |
 | Answered marketing calls that are real leads | 38% | 45% for ChatGPT-referred calls (low volume) | Invoca | 2026 |
 | Leads converted on the call, all | 45% | paid search 48% | Invoca | 2026 |
-| Converted on the call, plumbing / pest / lawn and tree | 55% / 55% / 54% | | Invoca | 2026 |
-| Converted on the call, HVAC / restoration / construction / doors and windows | 43% / 30% / 29% / 28% | | Invoca | 2026 |
+| Converted on the call, plumbing / pest / lawn and tree | 55% / 55% / 54% | | Invoca (reported by Invoca, not independently checked) | 2026 |
+| Converted on the call, HVAC / restoration / construction / doors and windows | 43% / 30% / 29% / 28% | | Invoca (reported by Invoca, not independently checked) | 2026 |
 | Pros replying to leads within 1 hour | 20% (60% same day, 18% within 2 days) | top businesses under 60 min average | [Jobber trends report](https://www.getjobber.com/home-service-trends-report/) | Dec 2025 survey, 1,050 US owners |
 | Fastest and slowest trades, reply within 1 hour | cleaning 26%, HVAC 11% | | Jobber | Dec 2025 |
 | Customers expecting a form reply within 1 hour | 57% (41% got one); 79% chose the fastest responder | | 2026 consumer study cited with [Invoca Broken Funnel 2026](https://www.invoca.com/reports/home-services-broken-funnel-report-2026) | 2026 |

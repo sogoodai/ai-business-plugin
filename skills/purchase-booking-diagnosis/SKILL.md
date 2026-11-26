@@ -1,6 +1,6 @@
 ---
 name: purchase-booking-diagnosis
-description: Diagnose one broken or leaking purchase or booking journey using browser replay, funnel evidence, source and device cohorts, and actual supplied economics. Use for failed checkout, missing orders, bookings that do not save, or unexplained funnel drop-offs. Produces evidenced findings, a concrete repair or next test, and outcome verification.
+description: "My checkout or booking is broken, or people visit but don't buy. Find where one purchase or booking journey fails and how to fix it. Use when a founder says: customers can't pay, the checkout errors, orders or bookings are missing, the booking form doesn't save, people add to cart then leave, traffic but no sales, or sales dropped on mobile or from one ad. Replays the journey in a browser, reads funnel data, gives the fix and how to check it worked."
 ---
 
 # Purchase or booking diagnosis

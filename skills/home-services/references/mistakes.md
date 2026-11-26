@@ -7,7 +7,7 @@ Two tables: what the data and platform rules show, and what practitioners report
 | Mistake | What it costs | Do instead |
 |---|---|---|
 | Paying for leads nobody answers | Only 52% of home-service calls reach a person (Invoca 2026); LSA bills an in-hours missed call held over 20 seconds | Missed-call text, answering service, pause ads in hours you cannot answer |
-| Ranking channels by cost per lead | Cleaning CPL $46.99 at 15% booking = $313 a job; plumbing $129 at 55% = $235 (LocaliQ 2025, Invoca 2026, illustrative) | Booked and completed CAC, then GP CAC |
+| Ranking channels by cost per lead | Cleaning CPL $46.99 at 15% booking = $313 a job; plumbing $129 at 55% = $235 (LocaliQ 2025, Invoca 2026, illustrative; trade split reported by Invoca, not independently checked) | Booked and completed CAC, then GP CAC |
 | Buying traffic before following up quotes | Leaves 1 to 15% of revenue on the table (ServiceTitan 2025, self-reported) | Fixed follow-up cadence; recovered revenue as its own line |
 | Counting on LSA disputes to fix targeting | No credits for wrong job type or area; no automated credits in EMEA (Google 2026) | Tight service areas and job types; weekly reconciliation |
 | "Google Guaranteed" on trucks and scripts | Outdated since Oct 2025; the money-back guarantee ended | "Google Verified" only if verified |
