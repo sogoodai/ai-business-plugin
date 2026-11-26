@@ -1,0 +1,1 @@
+I want to start a small side business selling printables or spreadsheet templates online. I have 5 hours a week and $200. Pick one idea for me, tell me where to sell it, how to price it, and what it takes to make $500 a month.

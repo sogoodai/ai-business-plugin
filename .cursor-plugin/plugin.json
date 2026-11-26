@@ -1,0 +1,23 @@
+{
+  "name": "sogood",
+  "displayName": "SoGood AI",
+  "version": "0.1.0",
+  "description": "Run a business with AI: connect your SoGood AI business (MCP) and get 33 sourced business playbooks (ecommerce, local services, education, creators, B2B, simple online businesses) plus offer-profit and checkout-diagnosis tools.",
+  "author": {
+    "name": "SoGood AI"
+  },
+  "keywords": [
+    "business",
+    "small-business",
+    "ecommerce",
+    "marketing",
+    "local-services",
+    "playbooks",
+    "mcp",
+    "sogood",
+    "founder",
+    "ads"
+  ],
+  "logo": "assets/logo.svg",
+  "license": "MIT AND CC-BY-4.0"
+}

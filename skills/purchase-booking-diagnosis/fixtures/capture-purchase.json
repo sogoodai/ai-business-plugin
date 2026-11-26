@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "base_url": "http://127.0.0.1:8765",
+  "journey": {
+    "id": "local-purchase",
+    "kind": "purchase",
+    "path": "standard",
+    "expected_outcome": "One confirmed synthetic purchase for capture-purchase, amount 1250 EUR minor units"
+  },
+  "browser": {
+    "url": "/?kind=purchase&mode=confirmed&test_id=capture-purchase",
+    "viewport": {"width": 390, "height": 844},
+    "locale": "en-US",
+    "is_mobile": true,
+    "has_touch": true
+  },
+  "action_timeout_ms": 3000,
+  "steps": [
+    {"action": "fill", "target": {"label": "Email"}, "value": "capture@example.invalid"},
+    {"action": "click", "target": {"role": "button", "name": "Pay test amount"}}
+  ],
+  "ui": {
+    "target": {"role": "status"},
+    "success_text": "Confirmed",
+    "failure_text": "Declined",
+    "pending_text": "Pending",
+    "expected": "success",
+    "timeout_ms": 200
+  },
+  "submission": {"url": "/api/submit", "method": "POST"},
+  "readback": {
+    "url": "/api/records?test_id=capture-purchase",
+    "identity": {"field": "test_id", "value": "capture-purchase"},
+    "records_field": "records",
+    "expected": {"status": "confirmed", "amount": 1250, "currency": "EUR"},
+    "processing_bound_ms": 100,
+    "max_wait_ms": 200,
+    "poll_interval_ms": 20
+  }
+}

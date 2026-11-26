@@ -1,0 +1,47 @@
+{
+  "name": "sogood",
+  "version": "0.1.0",
+  "description": "Run a business with AI: connect your SoGood AI business (MCP) and get 33 sourced business playbooks (ecommerce, local services, education, creators, B2B, simple online businesses) plus offer-profit and checkout-diagnosis tools.",
+  "author": {
+    "name": "SoGood AI",
+    "url": "https://sogood.ai/?utm_source=codex&utm_medium=plugin&utm_campaign=ai-business-plugin"
+  },
+  "homepage": "https://sogood.ai/?utm_source=codex&utm_medium=plugin&utm_campaign=ai-business-plugin",
+  "repository": "https://github.com/sogoodai/ai-business-plugin",
+  "keywords": [
+    "business",
+    "small-business",
+    "ecommerce",
+    "marketing",
+    "local-services",
+    "playbooks",
+    "mcp",
+    "sogood",
+    "founder",
+    "ads"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "SoGood AI",
+    "shortDescription": "Run your SoGood AI business and get sourced business playbooks",
+    "longDescription": "Run a business with AI: connect your SoGood AI business (MCP) and get 33 sourced business playbooks (ecommerce, local services, education, creators, B2B, simple online businesses) plus offer-profit and checkout-diagnosis tools. Reads and changes your SoGood business (products, orders, site, ads, tasks) after you sign in with OAuth. Sends, publishes, deletes and spend need your explicit yes.",
+    "developerName": "SoGood AI",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://sogood.ai/?utm_source=codex&utm_medium=plugin&utm_campaign=ai-business-plugin",
+    "privacyPolicyURL": "https://sogood.ai/privacy",
+    "termsOfServiceURL": "https://sogood.ai/terms",
+    "defaultPrompt": [
+      "How did my SoGood business sell this week?",
+      "Plan the first 30 days for my house cleaning business",
+      "Draft a Google search ad for my best product"
+    ],
+    "brandColor": "#1B2A4A",
+    "logo": "./assets/logo.svg"
+  },
+  "license": "MIT AND CC-BY-4.0"
+}

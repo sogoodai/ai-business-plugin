@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "offer_name": "Synthetic four-hour workshop",
+  "currency": "EUR",
+  "period": "Illustrative four-week delivery period",
+  "price": 600,
+  "shipping_charged": 0,
+  "tax_collected": 0,
+  "costs_complete": true,
+  "costs": [
+    {"name": "Materials and travel", "amount": 50, "kind": "cash"},
+    {"name": "Unpaid owner time, four hours at 50", "amount": 200, "kind": "opportunity"}
+  ],
+  "fees": [],
+  "refunds": [],
+  "cac_per_order": 100,
+  "orders": 10,
+  "fixed": {"period": 1000, "incremental": 200},
+  "capacity": {
+    "available_hours": 32,
+    "hours_per_order": 4,
+    "displaced_contribution_per_order": 0
+  },
+  "cash": {
+    "starting_cash": 100,
+    "complete": false,
+    "events": [
+      {"day": 0, "label": "Upfront promotion", "amount": -1000},
+      {"day": 7, "label": "First supplied customer payment", "amount": 600}
+    ]
+  },
+  "evidence": {
+    "/": {"status": "assumed", "source": "Synthetic capacity example, not a forecast", "as_of": "2026-11-16"}
+  },
+  "sensitivity": [
+    {"name": "Limit intake to actual capacity", "overrides": {"/orders": 8}}
+  ]
+}

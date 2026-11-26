@@ -1,0 +1,8 @@
+{
+  "name": "sogood",
+  "owner": { "name": "SoGood AI", "url": "https://sogood.ai/?utm_source=claude-code&utm_medium=marketplace&utm_campaign=ai-business-plugin" },
+  "metadata": { "description": "SoGood AI plugin: the SoGood MCP plus sourced business playbooks." },
+  "plugins": [
+    { "name": "sogood", "source": "./", "description": "Run a business with AI: connect your SoGood AI business (MCP) and get 33 sourced business playbooks (ecommerce, local services, education, creators, B2B, simple online businesses) plus offer-profit and checkout-diagnosis tools.", "category": "productivity" }
+  ]
+}

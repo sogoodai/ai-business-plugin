@@ -1,0 +1,1 @@
+I run a 2-person house cleaning business in Austin. We have 4.6 stars on Google with 23 reviews, and most clients come from referrals. I want 10 more recurring clients in the next 60 days and I can spend under $1,000. What exactly should I do, week by week?

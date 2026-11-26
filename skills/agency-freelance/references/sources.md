@@ -1,0 +1,592 @@
+# Sources
+
+Three kinds of sources, kept apart in the skill: measured data and platform terms (research pass, November 2026), public skill frameworks adapted under their licenses, and practitioner threads (Reddit).
+
+## Research: benchmarks and platform data
+
+Evidence grades: A = platform documentation, official law or regulator guidance; B = large aggregate or survey datasets (vendor or self-selected; association, not cause); C = single vendor case study. Every vendor below sells something related to what it measures.
+
+Agency economics and surveys
+- Promethean Research, Digital Agency Industry Report, 2026 edition (B; 1,452 leaders, 3,172 positions, 200,000+ agencies observed): https://prometheanresearch.com/digital-agency-industry-report/
+- Promethean Research, State of Digital Services 2026, fielded Feb 2026, n=119, median 13 FTE (B): https://research.prometheanresearch.com/products/state-of-digital-services-2026-an-uneven-return-to-form
+- Promethean Research, State of Digital Services 2025, fielded Feb 2025, n=151 (B): https://research.prometheanresearch.com/products/surviving-thriving-through-a-tough-market-state-of-digital-services-2025
+- Promethean Research, Client Retention Rate, 7 July 2026, n=165 (B): https://prometheanresearch.com/client-retention-rate/
+- Promethean Research, Agency Partner Program Guide, 204 published program percentages, July 2026 (B): https://prometheanresearch.com/agency-partner-program-guide/
+- Promethean Research, How to Operationalize Agency Referrals, 2026: https://prometheanresearch.com/operationalize-agency-referrals/
+- AgencyAnalytics, Marketing Agency Benchmarks 2026, n=494 (B, vendor): https://agencyanalytics.com/agency-benchmarks-2026
+- Audience Audit and Agency Core, 2026 Agency Core study, n=434 (B): https://audienceaudit.net/clients/agency-core/projects/2026-agency-core/visualizations/agency-core-2026/chart/
+- CallRail, The 2026 Outlook for Marketing Agencies, 100 US agencies (B, vendor): https://www.callrail.com/learn/the-2026-outlook-for-marketing-agencies
+- Hinge Marketing, High Growth Study 2026 executive summary (B; two editions report 770 and 495 firms): https://hingemarketing.com/library/article/high-growth-study-2026-executive-summary
+- Hinge Marketing, 5 takeaways from the 2026 High Growth Study: https://hingemarketing.com/blog/story/5-key-takeaways-from-the-2026-high-growth-study
+
+Proposals
+- Nusii, State of Proposals 2026, 27 Oct 2026, 9,022 proposals first sent in 2025, 4,356 agency (B, vendor): https://nusii.com/state-of-proposals-2026/
+- Proposify, State of Proposals 2026, 742,137 proposals sent in 2025 (B, vendor, larger-company skew): https://www.proposify.com/state-of-proposals-2026
+
+Marketplaces and rates (official terms, 2026)
+- Upwork, Freelancer Service Fee (A): https://support.upwork.com/hc/en-us/articles/211062538-Learn-about-the-Freelancer-Service-Fee
+- Upwork, Connects costs, uses and expiration (A): https://support.upwork.com/hc/en-us/articles/211062898-About-Connects-costs-uses-balances-and-expiration
+- Upwork, Maximizing your Connects: https://www.upwork.com/resources/maximizing-your-upwork-connects
+- Upwork, Direct Contracts (A): https://support.upwork.com/hc/en-us/articles/360025040794-Direct-Contracts-bring-a-client-to-Upwork
+- Upwork, In-Demand Skills 2026 (B, platform data): https://www.upwork.com/research/in-demand-skills-2026
+- Upwork, Future Workforce Index 2026, 14 July 2026 (B): https://investors.upwork.com/news-releases/news-release-details/upworks-future-workforce-index-2026-how-ai-redefining-value-work
+- Upwork, 2025 Form 10-K (A for company figures): https://investors.upwork.com/static-files/30673492-032c-4fea-b707-94969a5942f0
+- Upwork, hourly rate guide: https://www.upwork.com/resources/upwork-hourly-rates/
+- Upwork, AI automation engineers: https://www.upwork.com/hire/ai-automation-engineers/
+- Upwork, Zapier developers: https://www.upwork.com/hire/zapier-developers/
+- Fiverr, seller commission and Pro badge (A): https://help.fiverr.com/hc/en-us/articles/29453184449169-Fiverr-Pro-freelancer-Badge-and-benefits
+- Fiverr, buyer fees (A): https://help.fiverr.com/hc/en-us/articles/37554110679441-Managing-payments-and-billing
+- Contra, commission-free payments (A): https://contra.com/features/global-payments
+- Clutch, web development pricing, updated 21 Sept 2026 (B, listings): https://clutch.co/web-developers/pricing
+- Clutch, how to choose a web developer: https://clutch.co/resources/how-to-choose-a-web-developer
+- Clutch, video production pricing (B): https://clutch.co/agencies/video-production/pricing
+- Clutch, digital marketing pricing (B): https://clutch.co/agencies/digital-marketing/pricing
+- Clutch, graphic design pricing (B): https://clutch.co/agencies/graphic-designers/pricing
+- Clutch, graphic design industry 2026 survey (B, self-selected): https://clutch.co/resources/graphic-design-industry-2026
+
+Outbound benchmarks (vendor datasets, different definitions)
+- Instantly, Cold Email Benchmark Report 2026, 12 Jan 2026 (B): https://instantly.ai/cold-email-benchmark-report-2026
+- Smarter Outbound, Outbound Benchmarks, 17 Sept 2026, 277,036 prospects (B): https://www.smarteroutbound.com/benchmarks
+- Belkins, Cold Email Response Rates, 26 June 2026, 7.53M emails (B): https://belkins.io/blog/cold-email-response-rates
+- Lavender, Cold Email Benchmark Report, 4 Feb 2026 (B): https://lavender.ai/blog/the-cold-email-benchmark-report
+- Expandi, LinkedIn Outreach Benchmarks 2026, 19 May 2026 (B): https://expandi.io/blog/linkedin-outreach-benchmarks-2026/
+- Reachium, LinkedIn Outreach Benchmarks 2026 (B, concentrated sample): https://www.reachium.io/research/linkedin-outreach-benchmarks-2026
+- Loom, Intercom customer case (C): https://www.loom.com/customers/intercom
+- Vidyard, Superside video ABM case (C): https://www.vidyard.com/case-studies/video-drives-new-abm-opportunities/
+
+Platform rules, deliverability and law
+- Google, Email sender guidelines (A; rules from Feb 2024, stronger enforcement Nov 2025): https://support.google.com/mail/answer/81126
+- LinkedIn, prohibited automation (A): https://www.linkedin.com/help/linkedin/answer/a1341543
+- LinkedIn, invitation restrictions (A): https://www.linkedin.com/help/linkedin/answer/a551012/types-of-restrictions-for-sending-invitations
+- LinkedIn, personalized invitation notes (A): https://www.linkedin.com/help/linkedin/answer/a563153
+- LinkedIn, feed relevance (A): https://www.linkedin.com/help/linkedin/answer/a1339724
+- LinkedIn Engineering, next-generation feed, 2026 (A): https://www.linkedin.com/blog/engineering/feed/engineering-the-next-generation-of-linkedins-feed
+- US FTC, CAN-SPAM compliance guide (A; page predates 2024, still current guidance): https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business
+- UK ICO, business-to-business marketing (A; under review after the Data (Use and Access) Act): https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/business-to-business-marketing
+- Canada ISED, CASL consent (A; page predates 2024): https://ised-isde.canada.ca/site/canada-anti-spam-legislation/en/getting-consent-send-email
+- Australia ACMA, avoid sending spam (A): https://www.acma.gov.au/avoid-sending-spam
+- EDPB, Guidelines 1/2024 on legitimate interest (A): https://www.edpb.europa.eu/system/files/2024-10/edpb_guidelines_202401_legitimateinterest_en.pdf
+- EU ePrivacy Directive 2002/58/EC (A; use with national rules): https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32002L0058
+
+Content and search
+- Socialinsider, LinkedIn benchmarks 2026, 2.45M company-page posts (B): https://www.socialinsider.io/social-media-benchmarks/linkedin
+- Buffer, social media benchmarks (B): https://buffer.com/resources/social-media-benchmarks/
+- Wistia, video marketing statistics 2026 (B): https://wistia.com/blog/video-marketing-statistics
+- Google Search Central, documentation updates incl. 15 May 2026 generative AI guidance (A): https://developers.google.com/search/updates
+- Google Search Console, AI Mode and AI Overviews in Search metrics (A): https://support.google.com/webmasters/answer/7042828
+- Google Search Console, generative AI control, rolled out 31 Aug 2026 (A): https://support.google.com/webmasters/answer/16908024
+
+## Public skill frameworks (adapted, rewritten in our words)
+
+- coreyhaines31/marketingskills (MIT): service and agency-retainer offer defaults (named offer, first-milestone gate, capacity scarcity, month-1 paid pilot or 90-day out), service-level and outcome-or-extension guarantees, "onboarding velocity is the offer". Paths: skills/offers/references/offer-formats.md, skills/offers/references/guarantee-design.md. https://github.com/coreyhaines31/marketingskills
+- alirezarezvani/claude-skills (MIT): contract and proposal clause reference (payment terms, IP by jurisdiction, liability cap 1x contract value, termination with 14-day cure and 30/60/90-day convenience notice, 30/90-day fix warranty, DACH and UK notes). Path: business-growth/skills/contract-and-proposal-writer/SKILL.md. https://github.com/alirezarezvani/claude-skills
+- anthropics/knowledge-work-plugins, small-business (Apache-2.0; ideas adapted and rewritten, changed): proposal-builder (price from comparable past jobs with the arithmetic shown, 2 to 3 options anchored on the recommended one, log every quote won, lost or no response with reason), speed-to-lead (reply under 100 words with real slots), reactivate (rank quiet clients by past value). https://github.com/anthropics/knowledge-work-plugins
+- Ideas only, no text reused: Heuresis Growth-Operator-Agency (proprietary license): call prep, objection library, application forms for premium services, paid-consult entry offers.
+- Sibling skills in this marketplace: `offers-pricing` (break-even math, raise playbook), `organic-social` (LinkedIn people-led benchmarks).
+
+## Reddit practitioner threads
+
+Threads with extracted tactics, sorted by upvotes within each subreddit. "pts" = post score at collection; "tactics" = number of tactics extracted.
+
+### r/Entrepreneur (112 threads)
+
+- 8086 pts, 5 tactics: https://www.reddit.com/r/Entrepreneur/comments/eytom3/the_marketing_genius_of_lil_nas_x/
+- 6623 pts, 3 tactics: https://www.reddit.com/r/Entrepreneur/comments/5ob55t/3_months_ago_i_posted_the_exact_process_on_how_i/
+- 5127 pts, 2 tactics: https://www.reddit.com/r/Entrepreneur/comments/1lweb3t/i_scraped_109k_comments_to_find_the_best_side/
+- 4375 pts, 3 tactics: https://www.reddit.com/r/Entrepreneur/comments/5lfy6n/4_years_ago_i_wrote_a_case_study_on_reddit_on_my/
+- 4012 pts, 4 tactics: https://www.reddit.com/r/Entrepreneur/comments/1mw5yfg/forced_every_engineer_to_take_sales_calls_they/
+- 3559 pts, 2 tactics: https://www.reddit.com/r/Entrepreneur/comments/1gjap3l/how_i_made_15k_in_a_month_with_a_simple_python/
+- 3555 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/x3ehfg/i_currently_run_four_successful_online_businesses/
+- 3379 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/16daog8/ive_challenged_myself_to_make_100k_in_100_days/
+- 3344 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/1not590/i_sell_a_private_jet_flights_to_people_who_only/
+- 3300 pts, 2 tactics: https://www.reddit.com/r/Entrepreneur/comments/aylx5g/how_i_made_2k_in_a_day_pretending_to_own_a_valet/
+- 2921 pts, 2 tactics: https://www.reddit.com/r/Entrepreneur/comments/5vtkwo/for_11_years_i_have_been_ranking_ecommerce_stores/
+- 2731 pts, 11 tactics: https://www.reddit.com/r/Entrepreneur/comments/vqr0hm/from_18kmo_to_260kmo_in_5_months_selling_backpacks/
+- 2701 pts, 6 tactics: https://www.reddit.com/r/Entrepreneur/comments/ako3dd/how_i_made_10k_in_one_weekend_as_a_college/
+- 2636 pts, 2 tactics: https://www.reddit.com/r/Entrepreneur/comments/1cubdb0/how_ive_been_making_over_10k_mon_since_20_25_now/
+- 2584 pts, 7 tactics: https://www.reddit.com/r/Entrepreneur/comments/10mxbuk/made_200k_last_year_while_still_in_college/
+- 2497 pts, 2 tactics: https://www.reddit.com/r/Entrepreneur/comments/186nc6f/i_sold_my_ai_tool_for_35000/
+- 2481 pts, 7 tactics: https://www.reddit.com/r/Entrepreneur/comments/a5jpi0/how_i_made_150000_selling_a_meme/
+- 2441 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/1iztbde/most_people_should_not_start_a_business/
+- 2438 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/zazagy/how_to_start_a_business_an_indepth_guide_from_a/
+- 2402 pts, 5 tactics: https://www.reddit.com/r/Entrepreneur/comments/9n8xyj/inventrepreneurship_i_took_an_idea_to_mass/
+- 2381 pts, 2 tactics: https://www.reddit.com/r/Entrepreneur/comments/gs866a/from_0_to_32301043_in_14_months_with_a_simple/
+- 2338 pts, 3 tactics: https://www.reddit.com/r/Entrepreneur/comments/18t5n8e/how_i_went_from_10k_a_day_to_zero_now_living/
+- 2309 pts, 7 tactics: https://www.reddit.com/r/Entrepreneur/comments/ayzlqu/i_lost_nearly_8000_selling_on_amazon_fba/
+- 2228 pts, 2 tactics: https://www.reddit.com/r/Entrepreneur/comments/179uxji/watched_8_hours_of_mrbeasts_content_here_are_7/
+- 1916 pts, 2 tactics: https://www.reddit.com/r/Entrepreneur/comments/jx1zcx/seo_is_easy_the_exact_process_we_use_to_scale_our/
+- 1908 pts, 2 tactics: https://www.reddit.com/r/Entrepreneur/comments/ygnko2/i_became_a_self_made_millionaire_at_25_in_a_third/
+- 1882 pts, 3 tactics: https://www.reddit.com/r/Entrepreneur/comments/qmpgla/update_4_years_later_started_a_candle_side_hustle/
+- 1882 pts, 3 tactics: https://www.reddit.com/r/Entrepreneur/comments/15yu0h2/i_started_a_business_4_months_ago_and_its_already/
+- 1877 pts, 3 tactics: https://www.reddit.com/r/Entrepreneur/comments/16jg6k3/i_23_yo_make_740000_a_year_with_mobile_apps_ama/
+- 1864 pts, 2 tactics: https://www.reddit.com/r/Entrepreneur/comments/1mj1olw/i_spent_47k_and_18_months_building_an_ai_startup/
+- 1857 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/7aco1w/finding_profitable_niches_is_not_hard_a/
+- 1854 pts, 4 tactics: https://www.reddit.com/r/Entrepreneur/comments/5ffp9j/web_design_only_started_in_jan_this_year_making/
+- 1838 pts, 4 tactics: https://www.reddit.com/r/Entrepreneur/comments/43r36x/cold_calls_i_went_from_nothing_to_120kyear_solo/
+- 1798 pts, 3 tactics: https://www.reddit.com/r/Entrepreneur/comments/56xvo1/how_we_made_150000_profit_slinging_tshirts_as_a/
+- 1764 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/fhgeja/the_corona_virus_is_saving_my_startup/
+- 1752 pts, 5 tactics: https://www.reddit.com/r/Entrepreneur/comments/2h1mlt/the_inner_workings_of_a_subscription_box_company/
+- 1725 pts, 3 tactics: https://www.reddit.com/r/Entrepreneur/comments/m0n5x6/if_you_live_in_a_boring_midsized_town_you_could/
+- 1713 pts, 3 tactics: https://www.reddit.com/r/Entrepreneur/comments/yopjb9/how_i_made_47k_selling_an_unsexy_product_i_built/
+- 1655 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/e9830y/the_ladders_of_wealth_creation_a_stepbystep/
+- 1640 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/15284g4/this_guy_does_10m_with_6_employees_by_hauling/
+- 1635 pts, 3 tactics: https://www.reddit.com/r/Entrepreneur/comments/1dvwtkh/i_just_sold_my_startup_for_200000_after_11_months/
+- 1606 pts, 2 tactics: https://www.reddit.com/r/Entrepreneur/comments/1cijhmy/mistakes_i_wish_i_hadnt_made_after_building_30/
+- 1602 pts, 3 tactics: https://www.reddit.com/r/Entrepreneur/comments/3lltwu/how_i_literally_started_an_amazon_business_in/
+- 1589 pts, 3 tactics: https://www.reddit.com/r/Entrepreneur/comments/p4aw1e/a_year_ago_i_started_a_candle_business_as_a_side/
+- 1579 pts, 7 tactics: https://www.reddit.com/r/Entrepreneur/comments/s30vae/i_hired_content_writers_from_17_different/
+- 1541 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/7jk4r1/you_do_not_need_a_unique_idea_to_launch_a/
+- 1536 pts, 3 tactics: https://www.reddit.com/r/Entrepreneur/comments/iwmzv1/i_made_210822_selling_a_pdf_and_a_video_on_the/
+- 1535 pts, 2 tactics: https://www.reddit.com/r/Entrepreneur/comments/mhvryf/turning_a_small_app_into_a_20000mo_business/
+- 1528 pts, 2 tactics: https://www.reddit.com/r/Entrepreneur/comments/1mwfcdy/from_6myear_to_nearbankruptcy_overnight_and_how/
+- 1523 pts, 3 tactics: https://www.reddit.com/r/Entrepreneur/comments/dl06pa/i_hit_my_first_5000month_heres_every_mistake_i/
+- 1522 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/k34jbl/taught_myself_to_code_a_year_ago_just_released_my/
+- 1505 pts, 3 tactics: https://www.reddit.com/r/Entrepreneur/comments/gqufhl/ive_been_creating_content_on_linkedin_for_15/
+- 1475 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/1t0foym/i_built_a_business_im_too_embarrassed_to_talk/
+- 1469 pts, 6 tactics: https://www.reddit.com/r/Entrepreneur/comments/2y66lj/37_tactics_i_used_to_grow_my_company_to_50kmonth/
+- 1467 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/il65ll/whelp_i_quit_my_engineering_job_during_a_pandemic/
+- 1465 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/3r8hzo/so_were_now_over_2_million_per_year_in_combined/
+- 1459 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/s27yv8/discord_is_worth_15_billion_7_years_ago_they_got/
+- 1442 pts, 7 tactics: https://www.reddit.com/r/Entrepreneur/comments/2clqa3/how_startups_such_as_dropbox_airbnb_groupon_and/
+- 1438 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/7r1xgp/making_1000_per_night_cleaning_restaurants/
+- 1397 pts, 3 tactics: https://www.reddit.com/r/Entrepreneur/comments/yv9aqk/from_1k_initial_investment_to_100_m_exit_in_25/
+- 1378 pts, 2 tactics: https://www.reddit.com/r/Entrepreneur/comments/poeihp/12_months_ago_i_was_unemployed_last_week_my_side/
+- 1351 pts, 8 tactics: https://www.reddit.com/r/Entrepreneur/comments/ajpc5k/a_low_risk_way_to_turn_100_into_a_lot_more/
+- 1349 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/oajykb/i_raised_44m_in_funding_had_more_than_500k_users/
+- 1332 pts, 4 tactics: https://www.reddit.com/r/Entrepreneur/comments/anv813/how_to_turn_500_into_a_lot_more/
+- 1318 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/v7z7kw/left_a_whitecollar_job_3_years_ago_to_focus_on_a/
+- 1271 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/xyb7eq/i_lost_30000_becoming_a_successful_business_owner/
+- 1264 pts, 3 tactics: https://www.reddit.com/r/Entrepreneur/comments/qhaxje/i_32mstarted_my_landscaping_company_halfway/
+- 1259 pts, 2 tactics: https://www.reddit.com/r/Entrepreneur/comments/xjclme/my_website_about_startups_made_79342_this_month/
+- 1245 pts, 3 tactics: https://www.reddit.com/r/Entrepreneur/comments/es5qxv/my_most_successful_business_ever_the_jewelry/
+- 1215 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/fnihhi/i_run_a_pavement_maintenance_company_sealcoating/
+- 1205 pts, 2 tactics: https://www.reddit.com/r/Entrepreneur/comments/8y0tqg/2_years_ago_we_dreamt_of_creating_the_imdb/
+- 1199 pts, 4 tactics: https://www.reddit.com/r/Entrepreneur/comments/1l9gfvk/i_closed_200_freelance_deals_with_this_script/
+- 1195 pts, 4 tactics: https://www.reddit.com/r/Entrepreneur/comments/gf52xm/21_tips_for_great_copywriting/
+- 1173 pts, 5 tactics: https://www.reddit.com/r/Entrepreneur/comments/znlsf0/16year_update_i_started_a_business_from_nothing/
+- 1148 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/l6yvkg/this_simple_google_search_trick_finds_you_open/
+- 1134 pts, 2 tactics: https://www.reddit.com/r/Entrepreneur/comments/59baw8/finally_hit_10kmonth_revenue_with_my_blog_income/
+- 1128 pts, 3 tactics: https://www.reddit.com/r/Entrepreneur/comments/1axfah6/if_only_someone_told_me_this_before_my_first/
+- 1128 pts, 3 tactics: https://www.reddit.com/r/Entrepreneur/comments/12smsv4/i_want_to_share_the_ways_i_make_money_for_many_of/
+- 1125 pts, 5 tactics: https://www.reddit.com/r/Entrepreneur/comments/chj2vk/side_hustle_how_im_making_over_1000month/
+- 1122 pts, 3 tactics: https://www.reddit.com/r/Entrepreneur/comments/8brjty/i_replaced_my_phone_number_with_a_call_me_back/
+- 1120 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/ixoto6/after_600_messages_from_rentrepreneur_members/
+- 1117 pts, 3 tactics: https://www.reddit.com/r/Entrepreneur/comments/831ilr/i_started_a_candle_business_as_a_side_hustle_with/
+- 1117 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/7qjewc/i_emailed_a_photo_of_myself_to_50000_people_and/
+- 1115 pts, 4 tactics: https://www.reddit.com/r/Entrepreneur/comments/176z9e0/my_23m_first_10k_month_installing_internal_gpt4/
+- 1114 pts, 3 tactics: https://www.reddit.com/r/Entrepreneur/comments/4wkaop/how_i_turned_600_into_my_first_4k_in_revenue_in/
+- 1109 pts, 3 tactics: https://www.reddit.com/r/Entrepreneur/comments/xny9qg/my_website_has_made_over_200000_since_2013_in/
+- 1100 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/bqcg1l/i_left_my_corporate_job_to_start_a_pressure/
+- 1092 pts, 3 tactics: https://www.reddit.com/r/Entrepreneur/comments/hrkctu/in_the_last_two_years_i_read_a_library_of/
+- 1082 pts, 7 tactics: https://www.reddit.com/r/Entrepreneur/comments/gvlqrn/landscaping_business_from_0_to_23k_service/
+- 1076 pts, 3 tactics: https://www.reddit.com/r/Entrepreneur/comments/5sss8m/about_two_weeks_ago_i_posted_here_about_losing_my/
+- 1073 pts, 7 tactics: https://www.reddit.com/r/Entrepreneur/comments/17o2f6t/how_i_grew_my_youtube_channel_from_5k_to_100k/
+- 1071 pts, 8 tactics: https://www.reddit.com/r/Entrepreneur/comments/3avuhg/i_created_dicksbymailcom_went_viral_and_sold_the/
+- 1064 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/17bmldk/just_received_an_accidental_100k_payment_what_the/
+- 1062 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/s3zwm7/a_3d_printing_side_hustle_i_started/
+- 1060 pts, 2 tactics: https://www.reddit.com/r/Entrepreneur/comments/4crxzx/im_an_seodigital_marketing_consultanti_just/
+- 1056 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/hzikvl/how_this_letter_made_2_billion_dollars_for_the/
+- 1031 pts, 5 tactics: https://www.reddit.com/r/Entrepreneur/comments/9blez4/heres_my_real_attempt_at_starting_a_web_business/
+- 659 pts, 7 tactics: https://www.reddit.com/r/Entrepreneur/comments/1uckcc4/got_laid_off_33_days_ago_heres_everything_ive/
+- 556 pts, 4 tactics: https://www.reddit.com/r/Entrepreneur/comments/1rwrhuf/were_making_money_in_the_wedding_industry_and/
+- 485 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/1p8i2cn/i_keep_telling_potential_clients_not_to_hire_me/
+- 480 pts, 3 tactics: https://www.reddit.com/r/Entrepreneur/comments/1r3ubz0/the_cold_call_opener_that_gets_me_past/
+- 431 pts, 2 tactics: https://www.reddit.com/r/Entrepreneur/comments/1vy195n/stop_using_ai_to_make_your_flyers_and_social_posts/
+- 362 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/1sb2zxs/requested_nobody_wants_to_talk_about_buying_a/
+- 259 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/1p9uk2q/i_spent_1000_advertising_on_reddit_and_have/
+- 250 pts, 3 tactics: https://www.reddit.com/r/Entrepreneur/comments/1rb9ep7/found_a_bible_study_store_doing_214kmonth_and_at/
+- 249 pts, 5 tactics: https://www.reddit.com/r/Entrepreneur/comments/1p3vvmc/hit_31k_on_gumroad_in_3_months_selling_digital/
+- 222 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/1rv8lo0/a_few_years_ago_i_paid_a_marketing_agency_5000mo/
+- 210 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/1vnmfbt/my_first_6_months_in_the_hard_money_lending/
+- 201 pts, 3 tactics: https://www.reddit.com/r/Entrepreneur/comments/1v3la4h/building_is_too_easy_now_heres_how_to_actually/
+- 201 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/1phs91q/i_started_my_business_without_a_dime_3_years_ago/
+- 200 pts, 3 tactics: https://www.reddit.com/r/Entrepreneur/comments/1w1obqb/how_did_i_accidentally_ended_up_making_a/
+- 190 pts, 1 tactics: https://www.reddit.com/r/Entrepreneur/comments/1pot673/can_i_pick_your_brain_why_i_stopped_giving_free/
+
+### r/agency (89 threads)
+
+- 990 pts, 2 tactics: https://www.reddit.com/r/agency/comments/18x0odv/alex_hormozi_has_done_a_great_disservice_to_the/
+- 316 pts, 7 tactics: https://www.reddit.com/r/agency/comments/1jpcit8/three_digital_marketing_agencies_181_clients_6myr/
+- 303 pts, 5 tactics: https://www.reddit.com/r/agency/comments/1ni951d/030k_a_month_what_i_learnt_running_a_marketing/
+- 211 pts, 2 tactics: https://www.reddit.com/r/agency/comments/1iwrcxb/300k_mrr_ask_me_anything/
+- 202 pts, 3 tactics: https://www.reddit.com/r/agency/comments/1pthr4q/took_an_agency_from_500k_to_65m_broke_it_a_few/
+- 155 pts, 3 tactics: https://www.reddit.com/r/agency/comments/1q5eoy4/i_ran_a_digital_agency_that_we_grew_to_8_figure/
+- 154 pts, 1 tactics: https://www.reddit.com/r/agency/comments/1ium035/why_im_closing_my_agency_lessons_learned/
+- 135 pts, 2 tactics: https://www.reddit.com/r/agency/comments/1l2u472/my_marketing_agency_comprehensive_2025_tech_stack/
+- 134 pts, 9 tactics: https://www.reddit.com/r/agency/comments/1pwy58x/closed_5_new_clients_this_month_after_raising/
+- 134 pts, 4 tactics: https://www.reddit.com/r/agency/comments/1s5th7k/started_my_agency_3_years_ago_scaled_to_over_50k/
+- 129 pts, 1 tactics: https://www.reddit.com/r/agency/comments/1oeu8qt/4_months_with_instantly_for_cold_email_08_to_51/
+- 121 pts, 2 tactics: https://www.reddit.com/r/agency/comments/144kss8/is_iman_gadzhi_legit_grow_your_agency_iag_media/
+- 117 pts, 1 tactics: https://www.reddit.com/r/agency/comments/1arjssf/20_years_in_still_stuck_maxed_at_120kyr_avg_30kyr/
+- 112 pts, 3 tactics: https://www.reddit.com/r/agency/comments/1r605tn/this_is_how_i_have_been_getting_new_clients_every/
+- 108 pts, 7 tactics: https://www.reddit.com/r/agency/comments/1hz6fuu/breakdown_of_my_last_20_clients_where_they_came/
+- 100 pts, 5 tactics: https://www.reddit.com/r/agency/comments/1jqxk0z/from_broke_vp_to_1m_agency_in_3_years_ama/
+- 100 pts, 3 tactics: https://www.reddit.com/r/agency/comments/1t58tky/web_dev_agencies_are_you_getting_new_clients/
+- 96 pts, 1 tactics: https://www.reddit.com/r/agency/comments/1s5nq4b/3_months_ago_i_was_panicking_at_61kmonth_just/
+- 95 pts, 2 tactics: https://www.reddit.com/r/agency/comments/1w7jii5/no_new_clients_for_11_months/
+- 92 pts, 3 tactics: https://www.reddit.com/r/agency/comments/1rgl77g/i_built_two_professional_services_companies_250/
+- 88 pts, 4 tactics: https://www.reddit.com/r/agency/comments/1rg1rbt/we_turn_away_clients_under_30k_mrr_i_shouldve/
+- 86 pts, 4 tactics: https://www.reddit.com/r/agency/comments/1icbwfq/how_we_got_our_last_10_clients_in_january_2025/
+- 85 pts, 1 tactics: https://www.reddit.com/r/agency/comments/1gb59ll/were_entering_a_reckoning_period_where_agencies/
+- 84 pts, 3 tactics: https://www.reddit.com/r/agency/comments/1mo1z4e/cold_emailing_too_much_hype_manual_outreach_got/
+- 80 pts, 3 tactics: https://www.reddit.com/r/agency/comments/1qgn1up/you_cant_scale_if_you_dont_know_your_internal/
+- 76 pts, 10 tactics: https://www.reddit.com/r/agency/comments/1x6r9xx/whats_actually_working_for_new_client_acquisition/
+- 76 pts, 5 tactics: https://www.reddit.com/r/agency/comments/1n2dvkg/is_anybody_actually_getting_clients_from_social/
+- 74 pts, 3 tactics: https://www.reddit.com/r/agency/comments/1ge3leb/what_your_agency_finances_should_look_like_at/
+- 74 pts, 1 tactics: https://www.reddit.com/r/agency/comments/1m9tyfr/3m_last_12_months_follow_up/
+- 74 pts, 1 tactics: https://www.reddit.com/r/agency/comments/1dp7i3u/i_spent_9_hours_on_a_proposal_only_to_get_ghosted/
+- 72 pts, 4 tactics: https://www.reddit.com/r/agency/comments/1i1m6es/how_to_get_clients_for_your_agency/
+- 72 pts, 1 tactics: https://www.reddit.com/r/agency/comments/1u1cpmg/the_truth_about_being_more_strategically_valuable/
+- 71 pts, 1 tactics: https://www.reddit.com/r/agency/comments/1lii9e8/ai_tools_i_use_to_run_two_6figures_agency/
+- 69 pts, 2 tactics: https://www.reddit.com/r/agency/comments/1hh9lkn/how_i_saved_a_lawn_care_business_from_bankruptcy/
+- 68 pts, 4 tactics: https://www.reddit.com/r/agency/comments/1pwzcsk/heres_what_a_revenue_breakdown_looks_like_for_a/
+- 67 pts, 1 tactics: https://www.reddit.com/r/agency/comments/1vctjk3/we_won_a_2250month_client_because_we_actually/
+- 66 pts, 1 tactics: https://www.reddit.com/r/agency/comments/1gx719l/how_to_start_a_new_agency_for_new_agency_owners/
+- 64 pts, 8 tactics: https://www.reddit.com/r/agency/comments/1vvqghd/how_do_you_find_time_to_acquire_new_clients_as_a/
+- 64 pts, 2 tactics: https://www.reddit.com/r/agency/comments/1k9jdyl/pivoted_from_a_dev_agency_to_marketing_after_15/
+- 63 pts, 2 tactics: https://www.reddit.com/r/agency/comments/1evck3z/starting_a_web_agency_in_2024_is_not_worth_it/
+- 62 pts, 6 tactics: https://www.reddit.com/r/agency/comments/1n7dwix/how_did_you_get_your_first_client/
+- 61 pts, 5 tactics: https://www.reddit.com/r/agency/comments/1vxhp5y/how_i_fit_client_acquisition_into_5_hours_a_week/
+- 61 pts, 1 tactics: https://www.reddit.com/r/agency/comments/1hlgdrc/my_experience_with_barkcom_leads/
+- 60 pts, 6 tactics: https://www.reddit.com/r/agency/comments/1mtjnk0/how_we_doubled_our_business_in_25_years_from_71k/
+- 59 pts, 4 tactics: https://www.reddit.com/r/agency/comments/1t7d2ze/if_your_retainer_margin_is_below_25_you_have_a/
+- 56 pts, 3 tactics: https://www.reddit.com/r/agency/comments/1pn0oic/i_tried_cold_email_for_my_ai_agency_here_is_what/
+- 56 pts, 2 tactics: https://www.reddit.com/r/agency/comments/1qqbpwo/underrated_things_prospects_and_clients_actually/
+- 56 pts, 2 tactics: https://www.reddit.com/r/agency/comments/1mq4208/how_my_pricing_and_packaging_have_changed_over/
+- 55 pts, 5 tactics: https://www.reddit.com/r/agency/comments/1vesibt/how_i_went_from_charging_250month_to_2250month_in/
+- 55 pts, 3 tactics: https://www.reddit.com/r/agency/comments/1log13u/am_i_charging_too_much_for_my_websites/
+- 53 pts, 4 tactics: https://www.reddit.com/r/agency/comments/1q1j2i5/i_need_a_bit_of_help_and_im_stuck_made_it_to/
+- 53 pts, 3 tactics: https://www.reddit.com/r/agency/comments/1nvod2x/i_have_let_go_of_5_agencies_last_6_weeks/
+- 53 pts, 3 tactics: https://www.reddit.com/r/agency/comments/1crql0w/signed_our_first_creator_client_estimated_to_be/
+- 53 pts, 3 tactics: https://www.reddit.com/r/agency/comments/1bu6zaw/what_to_do_when_you_need_work_now/
+- 51 pts, 2 tactics: https://www.reddit.com/r/agency/comments/1l3l9jo/best_hack_for_regaining_clients/
+- 51 pts, 1 tactics: https://www.reddit.com/r/agency/comments/1glf0wt/mind_blown_after_seeing_competitors_demos/
+- 50 pts, 5 tactics: https://www.reddit.com/r/agency/comments/16k6l75/how_i_scaled_marketing_for_my_agency/
+- 48 pts, 5 tactics: https://www.reddit.com/r/agency/comments/1qrfn6y/january_update_what_changed_when_we_raised_prices/
+- 47 pts, 2 tactics: https://www.reddit.com/r/agency/comments/1sz5mqw/i_run_a_video_editing_agency_with_genuinely_top/
+- 47 pts, 2 tactics: https://www.reddit.com/r/agency/comments/1m34rcu/raising_prices_on_clients/
+- 46 pts, 2 tactics: https://www.reddit.com/r/agency/comments/1pl9mpe/client_acquisition_is_the_absolute_easiest_thing/
+- 46 pts, 2 tactics: https://www.reddit.com/r/agency/comments/1h7p6z1/120_micro_influencer_sponsored_post_turned_into/
+- 46 pts, 1 tactics: https://www.reddit.com/r/agency/comments/1kdigrh/deluge_of_inbound_from_digital_marketing_clients/
+- 45 pts, 1 tactics: https://www.reddit.com/r/agency/comments/1gxfuxw/my_content_is_thriving_but_my_business_is_dying/
+- 43 pts, 2 tactics: https://www.reddit.com/r/agency/comments/1gc1cf4/lessons_from_starting_an_ai_automation_agency/
+- 42 pts, 6 tactics: https://www.reddit.com/r/agency/comments/1insm4x/heres_everything_i_know_about_producing_humanlike/
+- 42 pts, 6 tactics: https://www.reddit.com/r/agency/comments/1ea8jgc/what_info_we_collect_on_clients_during_onboarding/
+- 40 pts, 3 tactics: https://www.reddit.com/r/agency/comments/1rin5d6/you_offer_3_services_and_wonder_why_nobody/
+- 40 pts, 3 tactics: https://www.reddit.com/r/agency/comments/1iztdol/lower_ticket_offers_500m_are_worth_it_too/
+- 39 pts, 4 tactics: https://www.reddit.com/r/agency/comments/1i3s9tv/my_agency_journey_so_far/
+- 39 pts, 3 tactics: https://www.reddit.com/r/agency/comments/1h0b20g/how_im_winning_with_video/
+- 37 pts, 4 tactics: https://www.reddit.com/r/agency/comments/1jy5y92/some_ai_that_i_found_to_be_extremely_valuable_for/
+- 37 pts, 2 tactics: https://www.reddit.com/r/agency/comments/1902pxa/1_agency_killer_too_much_growth/
+- 36 pts, 10 tactics: https://www.reddit.com/r/agency/comments/1pewckx/how_do_you_get_clients_for_your_marketing_agency/
+- 35 pts, 1 tactics: https://www.reddit.com/r/agency/comments/1olu6ym/delegated_work_to_a_partner_agency_then_lost_a/
+- 34 pts, 5 tactics: https://www.reddit.com/r/agency/comments/1bolvun/new_client_sign_ups_and_cancellations_a_breakdown/
+- 34 pts, 1 tactics: https://www.reddit.com/r/agency/comments/1rxp8wl/automated_client_proposal_pdfs_from_meeting_notes/
+- 34 pts, 1 tactics: https://www.reddit.com/r/agency/comments/1hsrorn/finding_companies_already_looking_to_pay_for_my/
+- 33 pts, 1 tactics: https://www.reddit.com/r/agency/comments/1jfphxg/two_agencies_unsure_how_to_handle/
+- 33 pts, 1 tactics: https://www.reddit.com/r/agency/comments/1f93oe6/12k_first_year_30k_this_year/
+- 32 pts, 3 tactics: https://www.reddit.com/r/agency/comments/1quoezk/got_50_open_rates_on_cold_emails_but_moving_back/
+- 32 pts, 2 tactics: https://www.reddit.com/r/agency/comments/1w2vqt9/direct_comparison_of_cold_outreaching_to_one_of/
+- 31 pts, 1 tactics: https://www.reddit.com/r/agency/comments/1gsjt7u/i_saved_hours_for_proposal_writing_that_cost_me/
+- 30 pts, 1 tactics: https://www.reddit.com/r/agency/comments/1rbz226/1015_leads_per_month_or_you_dont_pay/
+- 30 pts, 1 tactics: https://www.reddit.com/r/agency/comments/1p9ku8u/do_you_have_any_tricks_to_predict_churning/
+- 29 pts, 3 tactics: https://www.reddit.com/r/agency/comments/1it69pi/scaling_from_15000_to_50000_mrr_how_would_you_do/
+- 29 pts, 1 tactics: https://www.reddit.com/r/agency/comments/1wc0ey9/thinking_about_killing_our_retainer_model_and/
+- 27 pts, 1 tactics: https://www.reddit.com/r/agency/comments/1xfc4en/weve_started_making_client_videos_with_ai_edited/
+- 26 pts, 1 tactics: https://www.reddit.com/r/agency/comments/1rrt6xf/how_i_actually_use_ai_to_run_my_agency_without/
+
+### r/freelanceWriters (71 threads)
+
+- 359 pts, 1 tactics: https://www.reddit.com/r/freelanceWriters/comments/wo7mqk/i_gave_up_and_became_an_electrician_this_is_the/
+- 338 pts, 2 tactics: https://www.reddit.com/r/freelanceWriters/comments/12avewl/best_freelance_platforms_for_finding_writing_jobs/
+- 324 pts, 2 tactics: https://www.reddit.com/r/freelanceWriters/comments/j9vbv4/i_have_officially_been_freelancing_for_one_month/
+- 302 pts, 3 tactics: https://www.reddit.com/r/freelanceWriters/comments/10l83ge/from_no_experience_copywriter_to_sixfigure/
+- 290 pts, 4 tactics: https://www.reddit.com/r/freelanceWriters/comments/kibnij/hit_my_first_10k_month_as_a_freelancer_heres_what/
+- 246 pts, 4 tactics: https://www.reddit.com/r/freelanceWriters/comments/yrqoo9/how_and_where_to_find_100hour_freelance_writing/
+- 221 pts, 1 tactics: https://www.reddit.com/r/freelanceWriters/comments/mrfhuu/i_got_my_first_job_on_upwork_the_day_after/
+- 216 pts, 3 tactics: https://www.reddit.com/r/freelanceWriters/comments/zjcich/hit_a_new_threshold_this_month_6540/
+- 216 pts, 2 tactics: https://www.reddit.com/r/freelanceWriters/comments/mpywmk/my_strugglefree_path_to_becoming_a_freelance/
+- 215 pts, 5 tactics: https://www.reddit.com/r/freelanceWriters/comments/ui9a1n/made_1750_in_my_first_two_months/
+- 214 pts, 5 tactics: https://www.reddit.com/r/freelanceWriters/comments/xvtl0v/what_i_learned_about_getting_freelance_writing/
+- 212 pts, 1 tactics: https://www.reddit.com/r/freelanceWriters/comments/1afnm2p/in_one_month_ive_lost_all_my_clients/
+- 200 pts, 1 tactics: https://www.reddit.com/r/freelanceWriters/comments/g0njkj/just_got_my_first_gig_at_a_decent_word_rate_and/
+- 188 pts, 3 tactics: https://www.reddit.com/r/freelanceWriters/comments/jswk8m/my_freelance_writing_secret_all_i_really_do_is/
+- 186 pts, 3 tactics: https://www.reddit.com/r/freelanceWriters/comments/1gnvntj/its_not_enough_being_just_a_writer_anymore_and/
+- 186 pts, 3 tactics: https://www.reddit.com/r/freelanceWriters/comments/1bvncqz/google_destroying_everything/
+- 186 pts, 1 tactics: https://www.reddit.com/r/freelanceWriters/comments/lumlzi/my_road_to_6figures/
+- 185 pts, 8 tactics: https://www.reddit.com/r/freelanceWriters/comments/sllp7h/how_i_made_40k_my_first_year_freelance_writing_on/
+- 185 pts, 1 tactics: https://www.reddit.com/r/freelanceWriters/comments/1orauiq/lost_my_biggest_client_to_their_own_fuckup/
+- 177 pts, 3 tactics: https://www.reddit.com/r/freelanceWriters/comments/nq2qkd/i_decided_to_try_out_freelance_writing_2_months/
+- 163 pts, 1 tactics: https://www.reddit.com/r/freelanceWriters/comments/jm53dh/every_freelancing_mistake_ive_made_how_to_avoid/
+- 160 pts, 6 tactics: https://www.reddit.com/r/freelanceWriters/comments/k06qm9/behind_the_scenes_of_a_small_freelance_editing/
+- 153 pts, 3 tactics: https://www.reddit.com/r/freelanceWriters/comments/g6npnf/looking_for_work_try_trade_journals/
+- 146 pts, 1 tactics: https://www.reddit.com/r/freelanceWriters/comments/m06b2m/made_my_first_5_today/
+- 145 pts, 1 tactics: https://www.reddit.com/r/freelanceWriters/comments/x7x8ms/i_think_ive_found_one_of_the_best_clients_a/
+- 138 pts, 1 tactics: https://www.reddit.com/r/freelanceWriters/comments/11l6j51/finally_enough_time_has_passed_5_years_for_me_to/
+- 133 pts, 2 tactics: https://www.reddit.com/r/freelanceWriters/comments/ty75ub/quit_content_mills_and_tripled_my_rate_overnight/
+- 133 pts, 1 tactics: https://www.reddit.com/r/freelanceWriters/comments/dvuozp/ive_been_seeing_a_bunch_of_should_i_take_x_course/
+- 132 pts, 3 tactics: https://www.reddit.com/r/freelanceWriters/comments/1ntoo1q/how_i_went_from_30k_to_2kmonth_in_freelance_income/
+- 131 pts, 1 tactics: https://www.reddit.com/r/freelanceWriters/comments/hc35c3/wish_i_could_scream_this_from_the_rooftop_to_new/
+- 127 pts, 1 tactics: https://www.reddit.com/r/freelanceWriters/comments/g5eq4f/how_twitter_landed_me_a_recurring_gig_writing_for/
+- 126 pts, 1 tactics: https://www.reddit.com/r/freelanceWriters/comments/m8kkwv/i_know_we_never_recommend_freelance_writing_rates/
+- 123 pts, 1 tactics: https://www.reddit.com/r/freelanceWriters/comments/kgxg9s/how_browsing_on_linkedin_got_me_a_contract_with_a/
+- 122 pts, 3 tactics: https://www.reddit.com/r/freelanceWriters/comments/gqwatl/reminder_you_should_almost_always_ask_for_more/
+- 121 pts, 1 tactics: https://www.reddit.com/r/freelanceWriters/comments/131axpy/potential_client_thought_i_would_write_their_50k/
+- 120 pts, 7 tactics: https://www.reddit.com/r/freelanceWriters/comments/a7yoey/10_lessons_from_10_years_as_a_freelance_writer/
+- 118 pts, 3 tactics: https://www.reddit.com/r/freelanceWriters/comments/t0o6xx/6_ideas_from_6_years_freelancing/
+- 118 pts, 1 tactics: https://www.reddit.com/r/freelanceWriters/comments/sh81v4/i_successfully_raised_my_rates_with_a_client_for/
+- 115 pts, 2 tactics: https://www.reddit.com/r/freelanceWriters/comments/hjw4du/the_step_by_step_guide_to_finding_freelance/
+- 113 pts, 3 tactics: https://www.reddit.com/r/freelanceWriters/comments/r0zo8t/my_experience_pitching_on_linkedin/
+- 111 pts, 5 tactics: https://www.reddit.com/r/freelanceWriters/comments/uj9hvi/how_i_landed_clients_as_requested_on_previous_post/
+- 110 pts, 7 tactics: https://www.reddit.com/r/freelanceWriters/comments/1hwvnr8/from_030_to_1_per_word_my_journey/
+- 109 pts, 1 tactics: https://www.reddit.com/r/freelanceWriters/comments/12d1dxv/wordagents_content_mill_mutiny_caused_by_ai/
+- 108 pts, 3 tactics: https://www.reddit.com/r/freelanceWriters/comments/klssol/the_no_bs_guide_to_getting_your_first_10_clients/
+- 106 pts, 2 tactics: https://www.reddit.com/r/freelanceWriters/comments/ryxdcz/how_to_actually_win_clients_on_linkedin/
+- 106 pts, 1 tactics: https://www.reddit.com/r/freelanceWriters/comments/hix0xn/im_tired_of_this_and_i_wanna_quit_my_one_year/
+- 104 pts, 1 tactics: https://www.reddit.com/r/freelanceWriters/comments/1q2j0fs/this_one_sentence_helped_me_get_recurring_revenue/
+- 98 pts, 1 tactics: https://www.reddit.com/r/freelanceWriters/comments/jsc8ey/a_single_piece_of_advice_in_the_right_context_has/
+- 95 pts, 4 tactics: https://www.reddit.com/r/freelanceWriters/comments/1c4miw7/a_happy_update_to_an_old_sad_post/
+- 95 pts, 1 tactics: https://www.reddit.com/r/freelanceWriters/comments/fh70sy/just_struck_a_025_per_word_article_writing_gig_on/
+- 94 pts, 1 tactics: https://www.reddit.com/r/freelanceWriters/comments/v6yka3/want_to_know_how_much_a_successful_established/
+- 90 pts, 4 tactics: https://www.reddit.com/r/freelanceWriters/comments/le1pbb/lessons_learned_from_buying_a_blog_for_10_on/
+- 89 pts, 4 tactics: https://www.reddit.com/r/freelanceWriters/comments/mhr6a6/unpopular_opinion_030word_isnt_even_close_to_a/
+- 89 pts, 2 tactics: https://www.reddit.com/r/freelanceWriters/comments/zegsv8/red_flags_cheat_sheet_there_is_no_deal_it_is_not/
+- 89 pts, 1 tactics: https://www.reddit.com/r/freelanceWriters/comments/159goje/after_3_almost_4_months_of_ridiculously_hard_work/
+- 88 pts, 4 tactics: https://www.reddit.com/r/freelanceWriters/comments/r1obve/how_to_actually_negotiate_your_rate/
+- 88 pts, 3 tactics: https://www.reddit.com/r/freelanceWriters/comments/1jiz925/got_an_essay_published_in_a_major_american/
+- 84 pts, 5 tactics: https://www.reddit.com/r/freelanceWriters/comments/dml1rw/one_year_later_update_of_my_experience/
+- 83 pts, 1 tactics: https://www.reddit.com/r/freelanceWriters/comments/hgeod2/i_worked_as_a_freelance_writer_and_developer_here/
+- 81 pts, 1 tactics: https://www.reddit.com/r/freelanceWriters/comments/lu2rwa/if_youre_a_new_writer_struggling_to_get_clients/
+- 80 pts, 2 tactics: https://www.reddit.com/r/freelanceWriters/comments/o6j9tq/why_serious_clients_will_pay_good_money_for/
+- 78 pts, 3 tactics: https://www.reddit.com/r/freelanceWriters/comments/awgfpz/i_made_0_freelancing_in_february_so_thats_the/
+- 77 pts, 3 tactics: https://www.reddit.com/r/freelanceWriters/comments/krd1wi/how_to_stop_busting_your_ass_and_land_some_gigs/
+- 73 pts, 2 tactics: https://www.reddit.com/r/freelanceWriters/comments/tbud0z/how_much_does_a_successful_freelance_writing/
+- 72 pts, 3 tactics: https://www.reddit.com/r/freelanceWriters/comments/rzs6uc/new_here_i_want_to_quit_my_part_time_job_and/
+- 72 pts, 3 tactics: https://www.reddit.com/r/freelanceWriters/comments/kqzuoc/heres_my_client_onboarding_process_how_does_your/
+- 72 pts, 3 tactics: https://www.reddit.com/r/freelanceWriters/comments/axo1ng/content_mills_how_to_win_at_a_losing_game/
+- 22 pts, 1 tactics: https://www.reddit.com/r/freelanceWriters/comments/1rlshe2/tools_are_useless_without_a_system/
+- 21 pts, 1 tactics: https://www.reddit.com/r/freelanceWriters/comments/1v172qo/warning_about_a_serious_chargeback_exposure_issue/
+- 16 pts, 1 tactics: https://www.reddit.com/r/freelanceWriters/comments/1pjhqbw/i_cant_seem_to_get_this_client_over_the_line/
+- 15 pts, 1 tactics: https://www.reddit.com/r/freelanceWriters/comments/1w9z9bf/how_do_you_price_when_a_client_makes_you_source_a/
+
+### r/digital_marketing (60 threads)
+
+- 431 pts, 9 tactics: https://www.reddit.com/r/digital_marketing/comments/1hzkol8/ive_spent_over_100m_in_meta_google_in_the_last_3/
+- 270 pts, 1 tactics: https://www.reddit.com/r/digital_marketing/comments/nlnw07/must_have_free_google_chrome_extensions_for/
+- 240 pts, 1 tactics: https://www.reddit.com/r/digital_marketing/comments/o9oamd/dont_call_your_newsletter_a_newsletter/
+- 225 pts, 2 tactics: https://www.reddit.com/r/digital_marketing/comments/1qfbl7a/unemployed_for_6_months_and/
+- 222 pts, 2 tactics: https://www.reddit.com/r/digital_marketing/comments/1pgl7qz/client_paid_an_seo_expert_5000_heres_what_they/
+- 204 pts, 3 tactics: https://www.reddit.com/r/digital_marketing/comments/10z6dvv/ive_been_running_the_same_profitable_campaign/
+- 194 pts, 2 tactics: https://www.reddit.com/r/digital_marketing/comments/n1syhp/my_top_5_learnings_from_spending_200k_on_facebook/
+- 178 pts, 2 tactics: https://www.reddit.com/r/digital_marketing/comments/1omdteu/which_instagram_like_bot_is_safest_right_now/
+- 168 pts, 3 tactics: https://www.reddit.com/r/digital_marketing/comments/nsc7nk/spotifys_email_marketing_sequence_teardown/
+- 142 pts, 2 tactics: https://www.reddit.com/r/digital_marketing/comments/kd284p/making_100k_per_month_on_40_profit_margin_is/
+- 139 pts, 7 tactics: https://www.reddit.com/r/digital_marketing/comments/1an811e/how_we_helped_an_ecommerce_clothing_store_grow/
+- 138 pts, 5 tactics: https://www.reddit.com/r/digital_marketing/comments/mupjoa/how_to_test_facebook_ads_the_right_way_so_you_can/
+- 138 pts, 1 tactics: https://www.reddit.com/r/digital_marketing/comments/1q0p4eh/where_i_think_digital_marketing_is_headed_in_2026/
+- 132 pts, 3 tactics: https://www.reddit.com/r/digital_marketing/comments/kydt5z/sidesmedia_reviewsuseviral_reviews_fraudersters/
+- 132 pts, 3 tactics: https://www.reddit.com/r/digital_marketing/comments/1rlgnar/i_spent_1847_to_test_6_ai_marketing_tools_and/
+- 131 pts, 1 tactics: https://www.reddit.com/r/digital_marketing/comments/1rek4nd/hot_take_most_businesses_dont_need_a_social_media/
+- 127 pts, 4 tactics: https://www.reddit.com/r/digital_marketing/comments/134rsfy/radical_new_approach_to_digital_marketing/
+- 121 pts, 1 tactics: https://www.reddit.com/r/digital_marketing/comments/lir9bc/fixing_bad_facebook_ads_is_usually_not_as_simple/
+- 117 pts, 1 tactics: https://www.reddit.com/r/digital_marketing/comments/kib6mp/some_advice_for_beginners_in_marketing/
+- 108 pts, 2 tactics: https://www.reddit.com/r/digital_marketing/comments/o35t3w/the_5_things_i_do_to_help_sell_higher_priced/
+- 107 pts, 1 tactics: https://www.reddit.com/r/digital_marketing/comments/ke6arz/i_started_a_seo_agency_in_2017_and_today_i_sold/
+- 105 pts, 4 tactics: https://www.reddit.com/r/digital_marketing/comments/m558ex/facebook_ads_my_strategy_for_the_different_levels/
+- 105 pts, 4 tactics: https://www.reddit.com/r/digital_marketing/comments/106jqr4/ive_worked_with_brands_like_apple_adobe_for/
+- 102 pts, 1 tactics: https://www.reddit.com/r/digital_marketing/comments/it78rz/i_wish_i_did_this_before_starting_my_seo_google/
+- 101 pts, 5 tactics: https://www.reddit.com/r/digital_marketing/comments/k2tp9k/how_i_made_600820_per_month_from_an_expired_domain/
+- 97 pts, 1 tactics: https://www.reddit.com/r/digital_marketing/comments/1pigo2k/button_text_that_gets_10_clicks/
+- 96 pts, 3 tactics: https://www.reddit.com/r/digital_marketing/comments/mazo5p/how_i_tripled_my_agency_in_3_months/
+- 95 pts, 4 tactics: https://www.reddit.com/r/digital_marketing/comments/l79lfc/everything_that_you_need_to_know_and_do_before/
+- 95 pts, 2 tactics: https://www.reddit.com/r/digital_marketing/comments/ll2x0d/affiliate_website_from_267m_to_21853m_in_19/
+- 94 pts, 2 tactics: https://www.reddit.com/r/digital_marketing/comments/10sa6pk/ive_managed_over_6_million_on_facebook_ads_heres/
+- 92 pts, 2 tactics: https://www.reddit.com/r/digital_marketing/comments/n4iaax/my_top_6_tips_for_highconverting_paid_creatives/
+- 91 pts, 3 tactics: https://www.reddit.com/r/digital_marketing/comments/kq7bly/simple_adwords_success_for_beginners/
+- 86 pts, 4 tactics: https://www.reddit.com/r/digital_marketing/comments/hsjqgx/ive_made_a_marketing_tool_that_shouldnt_exist/
+- 84 pts, 3 tactics: https://www.reddit.com/r/digital_marketing/comments/mf9dsh/different_ways_of_targeting_w_facebook_ads_that/
+- 82 pts, 2 tactics: https://www.reddit.com/r/digital_marketing/comments/zf1fms/8_marketing_psychology_hacks_used_by_top_brands/
+- 81 pts, 2 tactics: https://www.reddit.com/r/digital_marketing/comments/1sr3v4p/agency_life_ruined_my_ability_to_charge_what_im/
+- 78 pts, 2 tactics: https://www.reddit.com/r/digital_marketing/comments/1t7808r/i_replaced_cold_email_pitches_with_onepage_audits/
+- 73 pts, 1 tactics: https://www.reddit.com/r/digital_marketing/comments/paz3uf/before_you_start_an_agency_do_things_on_your_own/
+- 68 pts, 1 tactics: https://www.reddit.com/r/digital_marketing/comments/m0i0lf/how_to_properly_test_facebook_ads/
+- 67 pts, 6 tactics: https://www.reddit.com/r/digital_marketing/comments/1ojc7xo/how_i_helped_a_small_recruitment_agency_grow_from/
+- 66 pts, 4 tactics: https://www.reddit.com/r/digital_marketing/comments/1one2q6/after_8_years_in_seo_here_are_the_outdated/
+- 61 pts, 4 tactics: https://www.reddit.com/r/digital_marketing/comments/dcbt4r/adsense_amazon_beginners_guide/
+- 61 pts, 3 tactics: https://www.reddit.com/r/digital_marketing/comments/qa3eul/2021_facebook_ads_campaign_blueprint_heres_what_i/
+- 60 pts, 2 tactics: https://www.reddit.com/r/digital_marketing/comments/ghd50b/ill_answer_any_questions_you_have_about_creating/
+- 58 pts, 3 tactics: https://www.reddit.com/r/digital_marketing/comments/1qnle1z/i_analyzed_2500_subject_lines_across_12/
+- 55 pts, 1 tactics: https://www.reddit.com/r/digital_marketing/comments/1obaruk/how_would_you_learn_digital_marketing_if_you_had/
+- 54 pts, 1 tactics: https://www.reddit.com/r/digital_marketing/comments/gd87y8/some_hacks_on_how_i_grew_my_ecommerce_business/
+- 52 pts, 3 tactics: https://www.reddit.com/r/digital_marketing/comments/op2rnw/10_ways_to_get_more_google_reviews/
+- 52 pts, 2 tactics: https://www.reddit.com/r/digital_marketing/comments/k1eqyf/heres_how_you_make_people_buy_more_of_your/
+- 51 pts, 2 tactics: https://www.reddit.com/r/digital_marketing/comments/1h9h2ml/mistakes_that_arent_letting_you_grown_on_social/
+- 50 pts, 2 tactics: https://www.reddit.com/r/digital_marketing/comments/1har5ck/why_finding_clients_is_so_hard/
+- 47 pts, 5 tactics: https://www.reddit.com/r/digital_marketing/comments/13ml5zv/how_i_did_25_million_in_sales_without_paid_ads/
+- 44 pts, 1 tactics: https://www.reddit.com/r/digital_marketing/comments/ctrpa5/trust_is_gained_in_drops_but_lost_in_buckets_aka/
+- 43 pts, 1 tactics: https://www.reddit.com/r/digital_marketing/comments/18dkomx/email_engagement_always_crazy_low/
+- 42 pts, 5 tactics: https://www.reddit.com/r/digital_marketing/comments/1v5qefx/creative_fatigue_is_one_of_the_most_overused/
+- 42 pts, 5 tactics: https://www.reddit.com/r/digital_marketing/comments/1l33ava/audited_an_facebook_ad_account_spending_513kmo/
+- 42 pts, 3 tactics: https://www.reddit.com/r/digital_marketing/comments/14zz0hr/scaling_facebook_ads_to_1000day_the_strategy_ive/
+- 32 pts, 1 tactics: https://www.reddit.com/r/digital_marketing/comments/1uq4l1g/google_search_console_is_about_to_let_you_see_how/
+- 29 pts, 1 tactics: https://www.reddit.com/r/digital_marketing/comments/1tzp5zc/made_a_mistake_8_months_into_my_digital_marketing/
+- 28 pts, 2 tactics: https://www.reddit.com/r/digital_marketing/comments/1tjcleg/most_geo_experts_are_just_seo_consultants_who/
+
+### r/freelance (49 threads)
+
+- 808 pts, 4 tactics: https://www.reddit.com/r/freelance/comments/8ghen9/small_truths_about_freelancing_that_ive_learned/
+- 448 pts, 5 tactics: https://www.reddit.com/r/freelance/comments/kib7l3/hit_my_first_10k_month_as_a_freelancer_heres_what/
+- 437 pts, 3 tactics: https://www.reddit.com/r/freelance/comments/7yrtpc/have_you_ever_been_to_a_restaurant_and_asked_the/
+- 385 pts, 2 tactics: https://www.reddit.com/r/freelance/comments/5posgt/a_lot_of_you_are_idiots_when_it_comes_to_best/
+- 334 pts, 3 tactics: https://www.reddit.com/r/freelance/comments/dd8p3q/just_graduated_college_now_making_50hr_freelancing/
+- 308 pts, 1 tactics: https://www.reddit.com/r/freelance/comments/1v9xccr/there_is_a_secret_third_thing_you_can_do_to_get/
+- 271 pts, 1 tactics: https://www.reddit.com/r/freelance/comments/mvr5bx/got_my_first_paying_freelance_gig/
+- 270 pts, 1 tactics: https://www.reddit.com/r/freelance/comments/hlw1wy/i_just_made_my_first_50k_freelancing/
+- 268 pts, 1 tactics: https://www.reddit.com/r/freelance/comments/bawf3v/a_project_isnt_done_when_your_work_is_done_a/
+- 244 pts, 1 tactics: https://www.reddit.com/r/freelance/comments/1qaobz3/i_scraped_200k_reddit_posts_to_find_out_the_best/
+- 243 pts, 8 tactics: https://www.reddit.com/r/freelance/comments/hujkp8/web_design_business_mistakes_ive_made_and_what_i/
+- 216 pts, 2 tactics: https://www.reddit.com/r/freelance/comments/spxrrf/this_is_how_i_wasted_more_than_a_year_of_my/
+- 200 pts, 1 tactics: https://www.reddit.com/r/freelance/comments/nvdunt/quick_reminder_to_value_yourself_your_skills_and/
+- 195 pts, 1 tactics: https://www.reddit.com/r/freelance/comments/67831l/freelancerie_is_a_scam_check_my_chat_log_with/
+- 194 pts, 5 tactics: https://www.reddit.com/r/freelance/comments/9xzbc2/how_ive_been_successful_so_far/
+- 188 pts, 2 tactics: https://www.reddit.com/r/freelance/comments/i07keu/my_experience_getting_my_first_few_clients_and_5/
+- 188 pts, 1 tactics: https://www.reddit.com/r/freelance/comments/jos4we/the_way_salaries_are_hidden_inflated_or_not/
+- 187 pts, 8 tactics: https://www.reddit.com/r/freelance/comments/54wktv/heres_how_i_just_landed_a_5000_project_through/
+- 174 pts, 1 tactics: https://www.reddit.com/r/freelance/comments/2ekgvs/finally_got_a_response_from_my_unresponsive/
+- 174 pts, 1 tactics: https://www.reddit.com/r/freelance/comments/1idwwrs/job_market_is_terrible/
+- 172 pts, 3 tactics: https://www.reddit.com/r/freelance/comments/74h4lf/freelancing_rule_1_no_budget_no_proposal/
+- 161 pts, 3 tactics: https://www.reddit.com/r/freelance/comments/2sbjqg/how_i_went_from_zero_work_to_fulltime_work_as_a/
+- 161 pts, 2 tactics: https://www.reddit.com/r/freelance/comments/6pu38r/til_freelancing_site_upwork_suddenly_suspends/
+- 159 pts, 1 tactics: https://www.reddit.com/r/freelance/comments/b95yy3/landed_my_biggest_contract_to_date/
+- 155 pts, 2 tactics: https://www.reddit.com/r/freelance/comments/p97o2y/you_arent_as_good_as_you_think_you_are/
+- 155 pts, 1 tactics: https://www.reddit.com/r/freelance/comments/ghiaou/thinking_of_going_freelance_im_six_months_in/
+- 154 pts, 1 tactics: https://www.reddit.com/r/freelance/comments/hs946d/first_time_i_shouted_at_someone_in_public_over/
+- 149 pts, 3 tactics: https://www.reddit.com/r/freelance/comments/homfgo/this_is_what_freelancers_mean_when_they_say_find/
+- 149 pts, 1 tactics: https://www.reddit.com/r/freelance/comments/gab0ao/need_advice_former_client_wants_me_to_explain_how/
+- 146 pts, 1 tactics: https://www.reddit.com/r/freelance/comments/fn5q9s/client_trying_to_get_free_workneed_to_vent/
+- 132 pts, 2 tactics: https://www.reddit.com/r/freelance/comments/am2aqk/why_scope_of_work_is_one_of_your_best_friends_in/
+- 132 pts, 1 tactics: https://www.reddit.com/r/freelance/comments/5myfsl/almost_2_years_ago_on_2172015_at_the_age_of_24_i/
+- 129 pts, 1 tactics: https://www.reddit.com/r/freelance/comments/kfh0fm/a_potential_client_asked_me_how_old_i_am_because/
+- 128 pts, 1 tactics: https://www.reddit.com/r/freelance/comments/a6836y/its_a_christmas_miracle/
+- 121 pts, 1 tactics: https://www.reddit.com/r/freelance/comments/sjwj9d/going_freelance_is_the_best_choice_ive_ever_made/
+- 118 pts, 1 tactics: https://www.reddit.com/r/freelance/comments/1uvnflo/my_10_day_protocol_for_keeping_a_freelance/
+- 114 pts, 1 tactics: https://www.reddit.com/r/freelance/comments/1t764e6/i_want_to_shut_down_my_freelance_business/
+- 112 pts, 3 tactics: https://www.reddit.com/r/freelance/comments/1wsfwt0/former_client_came_back_eight_months_after_we/
+- 100 pts, 2 tactics: https://www.reddit.com/r/freelance/comments/1sxer6j/client_paid_me_1500_then_disappeared_do_i_follow/
+- 72 pts, 2 tactics: https://www.reddit.com/r/freelance/comments/1x0xgky/client_owes_me_250_after_i_completed_their/
+- 67 pts, 5 tactics: https://www.reddit.com/r/freelance/comments/1ozc3zq/lost_2300_to_scope_creep_on_one_project_how_do/
+- 58 pts, 1 tactics: https://www.reddit.com/r/freelance/comments/1va9vtx/we_built_a_full_3d_website_for_a_client_sent_the/
+- 54 pts, 1 tactics: https://www.reddit.com/r/freelance/comments/1xbzp74/should_i_charge_a_fee_after_a_client_rescheduled/
+- 52 pts, 1 tactics: https://www.reddit.com/r/freelance/comments/1sci8yg/our_biggest_bottleneck_isnt_the_work_its_waiting/
+- 51 pts, 1 tactics: https://www.reddit.com/r/freelance/comments/1p5204t/finished_making_a_website_for_a_local_business/
+- 50 pts, 1 tactics: https://www.reddit.com/r/freelance/comments/1p5dccw/i_used_to_refresh_my_inbox_like_something_would/
+- 44 pts, 5 tactics: https://www.reddit.com/r/freelance/comments/1s2hdo1/spent_200_on_instagram_ads_got_8_dms_zero_clients/
+- 38 pts, 1 tactics: https://www.reddit.com/r/freelance/comments/1to9m9h/nightmare_client_from_hell_please_help/
+- 37 pts, 3 tactics: https://www.reddit.com/r/freelance/comments/1qtzknv/what_i_learned_running_a_specialized_service/
+
+### r/Upwork (42 threads)
+
+- 655 pts, 6 tactics: https://www.reddit.com/r/Upwork/comments/1ncmr7l/just_cracked_300k_12_month_earnings/
+- 473 pts, 3 tactics: https://www.reddit.com/r/Upwork/comments/1dfpus9/i_took_upwork_seriously_for_a_month_here_are_the/
+- 473 pts, 2 tactics: https://www.reddit.com/r/Upwork/comments/1j4eg2b/1_million_generated_on_upwork_and_why_i_think_its/
+- 452 pts, 2 tactics: https://www.reddit.com/r/Upwork/comments/1iz0lnn/hit_500k_in_earnings_this_week_ama/
+- 379 pts, 1 tactics: https://www.reddit.com/r/Upwork/comments/1f4idp3/being_blocked_on_upwork_was_a_blessing_in_disguise/
+- 352 pts, 3 tactics: https://www.reddit.com/r/Upwork/comments/tdytz0/10k_in_3_months_my_tips_for_beginners/
+- 350 pts, 5 tactics: https://www.reddit.com/r/Upwork/comments/1mqq08f/1m_since_2016_ask_me_anything/
+- 322 pts, 1 tactics: https://www.reddit.com/r/Upwork/comments/1x46ff7/i_made_nearly_1m_on_this_platform_and_am/
+- 317 pts, 2 tactics: https://www.reddit.com/r/Upwork/comments/1n0koqm/i_scraped_1500_upwork_jobs_so_you_dont_have_to/
+- 296 pts, 1 tactics: https://www.reddit.com/r/Upwork/comments/1wbjvb3/upwork_no_longer_makes_sense_for_freelancers_with/
+- 295 pts, 1 tactics: https://www.reddit.com/r/Upwork/comments/1itq3te/landed_a_35hr_job_as_a_new_freelancer_on_upwork/
+- 282 pts, 3 tactics: https://www.reddit.com/r/Upwork/comments/1x0kret/over_300k_earned_in_12_months_have_not_been_able/
+- 269 pts, 4 tactics: https://www.reddit.com/r/Upwork/comments/1k28f64/ive_spent_127k_on_upwork_ama/
+- 260 pts, 2 tactics: https://www.reddit.com/r/Upwork/comments/lg0ekf/why_i_hired_this_person_on_upwork/
+- 248 pts, 1 tactics: https://www.reddit.com/r/Upwork/comments/oiyv0p/joined_the_100k_club_today/
+- 245 pts, 3 tactics: https://www.reddit.com/r/Upwork/comments/1mxpe46/upwork_isnt_dead_this_is_2k_in_2_months/
+- 243 pts, 2 tactics: https://www.reddit.com/r/Upwork/comments/1lilkq1/10_years_on_upwork_heres_why_youre_not_getting/
+- 243 pts, 1 tactics: https://www.reddit.com/r/Upwork/comments/17dxarj/the_best_proposal_i_ever_got_in_15_years_of_upwork/
+- 232 pts, 1 tactics: https://www.reddit.com/r/Upwork/comments/1tjymno/they_post_fake_bigbudget_jobs_to_steal_your/
+- 204 pts, 2 tactics: https://www.reddit.com/r/Upwork/comments/1mkdqjy/today_marks_one_year_since_i_landed_my_first_job/
+- 196 pts, 3 tactics: https://www.reddit.com/r/Upwork/comments/1jr7ggs/i_built_my_profile_over_7_years_upwork_destroyed/
+- 195 pts, 7 tactics: https://www.reddit.com/r/Upwork/comments/1cwkahd/i_made_100k_in_11_months_on_upwork_ask_my_anything/
+- 195 pts, 2 tactics: https://www.reddit.com/r/Upwork/comments/1xlzmo3/im_a_toprated_freelancer_at_100k_perfect_ratings/
+- 192 pts, 2 tactics: https://www.reddit.com/r/Upwork/comments/1e73yco/suspended_after_14_years_on_platform/
+- 190 pts, 4 tactics: https://www.reddit.com/r/Upwork/comments/1uf12s4/just_crossed_10k_in_my_first_8_months/
+- 178 pts, 3 tactics: https://www.reddit.com/r/Upwork/comments/14vtwql/psa_crafting_proposals_for_upwork_what_the_client/
+- 170 pts, 1 tactics: https://www.reddit.com/r/Upwork/comments/1ufd8zz/hit_100k_earnings_on_upwork_my_thoughts_advice/
+- 169 pts, 1 tactics: https://www.reddit.com/r/Upwork/comments/18vu3j7/why_youre_having_a_bad_time_on_upwork_a_detailed/
+- 166 pts, 1 tactics: https://www.reddit.com/r/Upwork/comments/1wo8bqf/starting_my_own_business_after_quitting_upwork/
+- 159 pts, 1 tactics: https://www.reddit.com/r/Upwork/comments/1ev7u01/wtf_has_happened_to_upwork_lately/
+- 156 pts, 1 tactics: https://www.reddit.com/r/Upwork/comments/1xddkp5/upwork_has_ruined_me/
+- 151 pts, 1 tactics: https://www.reddit.com/r/Upwork/comments/1iuvcvc/this_cover_letter_landed_me_a_35hr_job_on_upwork/
+- 148 pts, 5 tactics: https://www.reddit.com/r/Upwork/comments/1nkfo3n/let_me_tell_you_how_to_get_your_first_client_on/
+- 146 pts, 2 tactics: https://www.reddit.com/r/Upwork/comments/kve1r5/tips_for_success_on_upwork/
+- 146 pts, 1 tactics: https://www.reddit.com/r/Upwork/comments/1udd16d/thanks_to_petra_for_offering_help/
+- 136 pts, 1 tactics: https://www.reddit.com/r/Upwork/comments/jr584a/applied_for_fun_and_heres_what_i_got/
+- 135 pts, 5 tactics: https://www.reddit.com/r/Upwork/comments/14f0sgj/how_i_made_my_first_100k_on_upwork/
+- 133 pts, 4 tactics: https://www.reddit.com/r/Upwork/comments/1jbyxox/after_6_months_of_failed_proposals_i_finally/
+- 129 pts, 6 tactics: https://www.reddit.com/r/Upwork/comments/1osf9sr/back_on_upwork_after_2_years_away_heres_whats/
+- 127 pts, 2 tactics: https://www.reddit.com/r/Upwork/comments/1cws0a1/i_made_10k_in_upwork_in_the_last_10_months_ask_me/
+- 127 pts, 1 tactics: https://www.reddit.com/r/Upwork/comments/sra1cw/i_just_learned_a_ton_of_valuable_lessons_as_a/
+- 119 pts, 1 tactics: https://www.reddit.com/r/Upwork/comments/1v416lm/280kyr_but_i_feel_this_wont_last_uma_recruiting/
+
+### r/graphic_design (8 threads)
+
+- 7804 pts, 1 tactics: https://www.reddit.com/r/graphic_design/comments/1l8svbg/recreated_the_ms_paint_mirror_for_100/
+- 3410 pts, 3 tactics: https://www.reddit.com/r/graphic_design/comments/997xgg/after_creating_a_design_on_instagram_every_day/
+- 2962 pts, 2 tactics: https://www.reddit.com/r/graphic_design/comments/1txir3y/my_book_cover_in_the_wild/
+- 2692 pts, 1 tactics: https://www.reddit.com/r/graphic_design/comments/iq73qd/here_are_a_group_of_business_cards_ive_recently/
+- 2678 pts, 1 tactics: https://www.reddit.com/r/graphic_design/comments/1uvtlli/unused_book_cover_i_made_with_sawdust/
+- 2614 pts, 1 tactics: https://www.reddit.com/r/graphic_design/comments/ivrvg1/packaging_i_designed_that_will_sadly_never_be/
+- 2556 pts, 1 tactics: https://www.reddit.com/r/graphic_design/comments/1sw52ml/learning_3d_as_a_designer_and_why_it_was_worth_it/
+- 2287 pts, 1 tactics: https://www.reddit.com/r/graphic_design/comments/1w6fj8j/anything_like_this_ever_happen_to_you/
+
+### r/web_design (7 threads)
+
+- 2428 pts, 1 tactics: https://www.reddit.com/r/web_design/comments/5wg1x7/i_hope_the_owners_of_this_coffee_shop_never/
+- 1349 pts, 3 tactics: https://www.reddit.com/r/web_design/comments/28qt3o/100_thats_cute/
+- 978 pts, 1 tactics: https://www.reddit.com/r/web_design/comments/2baput/website_i_made_for_our_agency/
+- 682 pts, 1 tactics: https://www.reddit.com/r/web_design/comments/1z0z33/a_local_web_design_company_the_entire_website_and/
+- 87 pts, 5 tactics: https://www.reddit.com/r/web_design/comments/1r64vkh/your_multistep_forms_are_killing_conversions/
+- 54 pts, 1 tactics: https://www.reddit.com/r/web_design/comments/1x8ujhm/showoff_saturday_redesigned_a_dayton_landscaping/
+- 53 pts, 1 tactics: https://www.reddit.com/r/web_design/comments/1sb2pia/i_posted_everything_already_looks_and_feels_like/
+
+### r/consulting (1 threads)
+
+- 984 pts, 1 tactics: https://www.reddit.com/r/consulting/comments/1p31f4l/google_has_arrived/
+
+### Agency threads from other segment collections (r/copywriting, r/PPC, r/EntrepreneurRideAlong, r/startups, r/smallbusiness and others)
+
+- 1,263 pts: https://www.reddit.com/r/EntrepreneurRideAlong/comments/1jpd6zn/last_year_i_started_a_business_that_did_5m_this/
+- 828 pts: https://www.reddit.com/r/smallbusiness/comments/1qfdosp/my_best_client_referred_me_to_their_friend_that/
+- 563 pts: https://www.reddit.com/r/PPC/comments/1hb6haw/i_made_my_clients_grow_i_have_good_results_but_i/
+- 551 pts: https://www.reddit.com/r/EntrepreneurRideAlong/comments/1bb55pz/why_do_many_entrepreneurs_claiming_to_earn/
+- 538 pts: https://www.reddit.com/r/PPC/comments/p168r1/ive_managed_10m_in_paid_media_over_the_last_8/
+- 524 pts: https://www.reddit.com/r/EntrepreneurRideAlong/comments/1cm37gn/what_are_you_building_list_it_below_ill_give_you/
+- 500 pts: https://www.reddit.com/r/copywriting/comments/1ifwluu/i_closed_136k_in_copywriting_work_last_month/
+- 442 pts: https://www.reddit.com/r/smallbusiness/comments/1owfk93/the_best_100_ive_ever_spent/
+- 431 pts: https://www.reddit.com/r/Entrepreneur/comments/1vy195n/stop_using_ai_to_make_your_flyers_and_social_posts/
+- 397 pts: https://www.reddit.com/r/copywriting/comments/mheur7/you_dont_need_a_copy_critique_you_need_a_better/
+- 383 pts: https://www.reddit.com/r/EntrepreneurRideAlong/comments/1j0sneq/how_to_start_an_ai_agency_get_off_the_grift_train/
+- 359 pts: https://www.reddit.com/r/copywriting/comments/1l1g4sj/stupid_easy_ways_to_land_clients/
+- 358 pts: https://www.reddit.com/r/EntrepreneurRideAlong/comments/1pd4crt/im_fixing_vibecoded_apps_while_everyone_else_is/
+- 340 pts: https://www.reddit.com/r/EntrepreneurRideAlong/comments/1srl6a6/i_lost_my_biggest_client_because_i_went_quiet_for/
+- 321 pts: https://www.reddit.com/r/EntrepreneurRideAlong/comments/1mizbz0/how_i_make_5kmonth_with_instagram_pages_ama/
+- 319 pts: https://www.reddit.com/r/socialmedia/comments/4tea5x/freelance_social_media_two_things_i_did_that_my/
+- 297 pts: https://www.reddit.com/r/copywriting/comments/k5fz68/advice_for_new_copywriters_how_to_not_get_taken/
+- 284 pts: https://www.reddit.com/r/PPC/comments/11xi72k/ppc_salary_survey_2023_final_report/
+- 281 pts: https://www.reddit.com/r/EntrepreneurRideAlong/comments/1cnpv5d/people_who_make_10k_per_month_working_for/
+- 279 pts: https://www.reddit.com/r/copywriting/comments/hbg1w1/stop_trying_to_break_into_copywriting/
+- 277 pts: https://www.reddit.com/r/startups/comments/mra2q0/client_used_my_free_consultation_to_extract_ideas/
+- 270 pts: https://www.reddit.com/r/startups/comments/e775cy/business_failed_4_months_ago_76000_in_debt_and_23/
+- 267 pts: https://www.reddit.com/r/DigitalMarketing/comments/fmdjy6/we_just_compiled_a_huge_list_of_learning/
+- 262 pts: https://www.reddit.com/r/EntrepreneurRideAlong/comments/l64nbz/started_a_content_marketing_agency_4_years_ago_0/
+- 256 pts: https://www.reddit.com/r/DigitalMarketing/comments/1m0hwnf/i_left_my_95_to_build_my_own_digital_marketing/
+- 251 pts: https://www.reddit.com/r/EntrepreneurRideAlong/comments/1runjpm/12_months_ago_i_was_driving_for_amazon_today_i/
+- 246 pts: https://www.reddit.com/r/copywriting/comments/1bucxd3/my_1_tip_for_being_a_successful_freelance/
+- 225 pts: https://www.reddit.com/r/copywriting/comments/pbfrau/3_months_into_fulltime_freelance_copywriting/
+- 215 pts: https://www.reddit.com/r/copywriting/comments/1lwijsi/every_way_ive_made_money_and_how_much_ive_charged/
+- 207 pts: https://www.reddit.com/r/EntrepreneurRideAlong/comments/kp8hlq/1_year_in_business_and_6figure_revenue_my/
+- 204 pts: https://www.reddit.com/r/EntrepreneurRideAlong/comments/1kb83a1/my_solopreneur_story_from_30k_in_debt_to_1m_arr/
+- 200 pts: https://www.reddit.com/r/Entrepreneur/comments/1phs91q/i_started_my_business_without_a_dime_3_years_ago/
+- 191 pts: https://www.reddit.com/r/DigitalMarketing/comments/1r9wexr/after_4_years_in_digital_marketing_here_are_the/
+- 188 pts: https://www.reddit.com/r/DigitalMarketing/comments/1pixhz4/5_steps_to_get_cited_in_chatgpt_ai_visibility/

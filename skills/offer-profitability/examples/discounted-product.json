@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "offer_name": "Synthetic discounted desk lamp",
+  "currency": "USD",
+  "period": "Illustrative 30-day offer cohort after refund window",
+  "list_price": 100,
+  "price": 80,
+  "shipping_charged": 5,
+  "tax_collected": 0,
+  "costs_complete": true,
+  "costs": [
+    {"name": "Landed lamp", "amount": 25, "kind": "inventory"},
+    {"name": "Pick and pack", "amount": 3, "kind": "cash"},
+    {"name": "Carrier", "amount": 8, "kind": "cash"}
+  ],
+  "fees": [
+    {"name": "Processor", "rate": 0.03, "fixed": 0.3, "base": "revenue"}
+  ],
+  "refunds": [
+    {
+      "name": "Full return, shipping also refunded",
+      "probability": 0.1,
+      "item_refund_fraction": 1,
+      "shipping_refund_fraction": 1,
+      "fee_credit_fractions": {"Processor": 0},
+      "extra_cost": 7,
+      "inventory_recovery": 20
+    }
+  ],
+  "cac_per_order": 25,
+  "orders": 100,
+  "fixed": {"period": 800, "incremental": 200},
+  "capacity": {"max_orders": 150, "displaced_contribution_per_order": 0},
+  "evidence": {
+    "/": {"status": "assumed", "source": "Synthetic worked example, not a benchmark", "as_of": "2026-11-16"}
+  },
+  "sensitivity": [
+    {"name": "CAC rises", "overrides": {"/cac_per_order": 30}},
+    {"name": "Returns double", "overrides": {"/refunds/0/probability": 0.2}},
+    {"name": "Both deteriorate", "overrides": {"/cac_per_order": 30, "/refunds/0/probability": 0.2}}
+  ]
+}

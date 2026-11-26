@@ -1,0 +1,7 @@
+{
+  "name": "sogood",
+  "version": "0.1.0",
+  "description": "Run a business with AI: connect your SoGood AI business (MCP) and get 33 sourced business playbooks (ecommerce, local services, education, creators, B2B, simple online businesses) plus offer-profit and checkout-diagnosis tools.",
+  "mcpServers": { "sogood": { "httpUrl": "https://mcp.sogood.ai/mcp" } },
+  "contextFileName": "GEMINI.md"
+}

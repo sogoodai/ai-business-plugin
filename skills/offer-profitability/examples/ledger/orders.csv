@@ -1,0 +1,5 @@
+order_id,offer_id,ordered_at,currency,units,item_revenue,shipping_revenue,tax_collected,costs_complete
+ORD-A,PROMO,2026-10-01,USD,2,80.00,5.00,17.00,true
+ORD-B,PROMO,2026-10-02,USD,1,50.00,0.00,10.00,true
+ORD-C,PROMO,2026-10-03,USD,1.5,45.00,3.00,9.60,true
+ORD-D,PROMO,2026-10-04,USD,1,30.00,0.00,6.00,true

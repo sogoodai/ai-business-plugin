@@ -1,0 +1,85 @@
+{
+ "totals": {
+  "plugin": 8,
+  "base": 1,
+  "TIE": 0
+ },
+ "per_prompt": {
+  "1-cleaning": [
+   "plugin",
+   "plugin",
+   "plugin"
+  ],
+  "2-templates": [
+   "plugin",
+   "plugin",
+   "plugin"
+  ],
+  "3-candles": [
+   "plugin",
+   "plugin",
+   "base"
+  ]
+ },
+ "means": {
+  "plugin": {
+   "specificity": 8.33,
+   "numbers": 6.89,
+   "fit": 8.33,
+   "insight": 8.67
+  },
+  "base": {
+   "specificity": 8.33,
+   "numbers": 6.44,
+   "fit": 7.33,
+   "insight": 6.89
+  }
+ },
+ "reasons": [
+  [
+   "verdict-1-cleaning-claude1.json",
+   "plugin",
+   "A labels its conversion rate as a working guess and includes practical safeguards: a fallback if Google Local Services Ads verification is late, an insurance requirement, review requests that follow the rules, and capacity and route-density checks. B is just as easy to act on, but it states unsourced figures as fact (Austin cost per lead, recent reviews mattering as much as star average) and spends exactly $1,000 instead of staying under the limit."
+  ],
+  [
+   "verdict-1-cleaning-claude2.json",
+   "plugin",
+   "A says plainly that its conversion rate is a working guess, keeps the budget under $1,000, and catches risks B misses: review gating, the insurance requirement for Google's ads, and naming clients without consent. B is just as concrete, but it states lead costs and conversion rates with little hedging, spends exactly $1,000 despite the 'under $1,000' limit, and tells the founder to ask only happy clients for reviews, which breaks Google policy."
+  ],
+  [
+   "verdict-1-cleaning-codex.txt",
+   "plugin",
+   "A better protects this small team's capacity, concentrates work around existing routes, and avoids selectively requesting Google reviews. Both undercount promotional costs and make unsupported claims, but B also budgets exactly $1,000 despite the strict limit and recommends ad spending that exceeds its allocation."
+  ],
+  [
+   "verdict-2-templates-claude1.json",
+   "plugin",
+   "A's fee arithmetic checks out exactly, including the Offsite Ads case, and it ties its timing to real quarterly tax deadlines from today's date. It also flags risks that B misses: checking the tax formulas with a CPA, and only running ads once a listing already sells, where B spends $80 on ads for a new shop with no reviews."
+  ],
+  [
+   "verdict-2-templates-claude2.json",
+   "plugin",
+   "A's fee math checks out exactly ($13.12, $25.80, and $21.45 after Offsite Ads), and it flags risks B misses: formula accuracy (with a budget for a CPA check that doubles as a selling point), the 15% Offsite Ads cut, and why new shops shouldn't run ads until a listing already sells. B is also solid and a good fit, but it puts $80 into ads in the first weeks of a shop with no reviews and states figures like the 15\u201325 listing requirement with more confidence than its evidence supports, though A's '$0.45\u2013$0.63 per visitor' figure is also only loosely sourced."
+  ],
+  [
+   "verdict-2-templates-codex.txt",
+   "plugin",
+   "A provides clearer fee calculations, prioritizes validation before advertising, and budgets for expert review, although its tax calculations are ambitious for this founder's constraints. Both present unsupported traffic and timeline estimates, but B adds unjustified listing-count requirements, earnings milestones, and claims about why shops fail."
+  ],
+  [
+   "verdict-3-candles-claude1.json",
+   "plugin",
+   "B fits this founder's situation better: it counts shipping in Etsy's fees, warns that $8,640 a year is close to the $10k point where Offsite Ads become mandatory, and adds two options A misses, raising the base price and selling wholesale. B's very precise benchmarks (like $38.99 and 16.3%) are cited but can't be checked and may be invented, while A labels its ranges as estimates and makes the useful point that Meta's tracking pixel can't run on Etsy, so B's advantage is modest."
+  ],
+  [
+   "verdict-3-candles-claude2.json",
+   "plugin",
+   "B fits this founder's situation more closely: it includes shipping in the fee math and flags that mandatory 12% Offsite Ads are close at about $8.6k a year in sales. It also warns about Etsy's rules on promoting your own site in packages, which A's QR-code advice ignores, and suggests raising the base price and selling wholesale. A labels its estimates more carefully, while B leans on very precise third-party figures (such as $38.99, 16.3%, 1.29% and 70%) that may not be reliable, but B's planning advice is still stronger overall."
+  ],
+  [
+   "verdict-3-candles-codex.txt",
+   "base",
+   "A gives a more proportionate, actionable path and labels its core cost assumptions, although its acquisition-cost range does not fully match its click and conversion assumptions. B usefully includes shipping and labor, but overstates what broad benchmarks prove, inadequately supports several precise statistics, and obscures that Offsite Ads fees apply only to attributed orders."
+  ]
+ ]
+}

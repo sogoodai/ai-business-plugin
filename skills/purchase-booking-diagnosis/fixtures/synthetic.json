@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "journey": {
+    "id": "synthetic-booking",
+    "kind": "booking",
+    "expected_outcome": "One confirmed test booking for the selected slot"
+  },
+  "sources": [
+    {"id": "replay", "kind": "browser", "captured_at": "2026-11-16T10:00:00Z", "locator": "synthetic://replay-success-screen"},
+    {"id": "records", "kind": "backend", "captured_at": "2026-11-16T10:00:05Z", "locator": "synthetic://bookings-test-id-1"},
+    {"id": "export", "kind": "event_export", "captured_at": "2026-11-16T10:01:00Z", "locator": "synthetic://closed-attempt-cohort"}
+  ],
+  "scopes": [{
+    "id": "mobile-standard",
+    "start": "2026-11-01T00:00:00Z",
+    "end": "2026-11-08T00:00:00Z",
+    "timezone": "Europe/Paris",
+    "population": "Synthetic eligible booking attempts; no bots or staff",
+    "source": "paid-social / example / test-campaign; entry attribution",
+    "device": "mobile / Chromium",
+    "path": "standard",
+    "unit": "attempt",
+    "identity": "attempt_id preserved across redirect",
+    "counting": "unique_per_step",
+    "deduplication": "event_id, then one attained step per attempt_id",
+    "sequence": "ordered",
+    "entry": "closed",
+    "completion_window_seconds": 3600,
+    "maturity": "mature"
+  }],
+  "funnels": [{
+    "id": "synthetic-mobile-standard",
+    "steps": [
+      {"name": "slot selected", "count": 20, "scope_id": "mobile-standard", "evidence_ids": ["export"]},
+      {"name": "booking saved", "count": 4, "scope_id": "mobile-standard", "evidence_ids": ["records"]}
+    ]
+  }],
+  "observations": [{
+    "id": "missing-record",
+    "title": "Confirmation without a saved booking",
+    "expected": "Confirmed test booking exists for test_id=1",
+    "actual": "Success UI; no matching booking after agreed processing bound",
+    "steps": ["Open the synthetic booking fixture", "Choose its available slot", "Submit test_id=1"],
+    "environment": {"url": "http://localhost/fixture", "device": "390x844 touch", "browser": "Chromium", "path": "standard"},
+    "evidence_ids": ["replay"],
+    "reproduced": true,
+    "result": "fail",
+    "outcome": {
+      "ui": "success",
+      "http_status": 200,
+      "persisted_record": "absent",
+      "verification_evidence_ids": ["records"],
+      "verification": {"query": "Synthetic test_id=1 after 5-second processing bound", "settled": true, "matched_test_identity": true}
+    }
+  }],
+  "hypotheses": [{
+    "id": "not-yet-tested",
+    "claim": "An express path may use a different event sequence",
+    "test": "Replay express path and reconcile its record with event delivery; a shared sequence disproves the hypothesis"
+  }]
+}

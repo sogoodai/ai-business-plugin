@@ -1,0 +1,12 @@
+{
+  "name": "sogood",
+  "interface": { "displayName": "SoGood AI" },
+  "plugins": [
+    {
+      "name": "sogood",
+      "source": { "source": "url", "url": "https://github.com/sogoodai/ai-business-plugin.git" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Productivity"
+    }
+  ]
+}

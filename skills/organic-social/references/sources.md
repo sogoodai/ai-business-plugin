@@ -1,0 +1,360 @@
+# Sources
+
+Three kinds of sources, kept apart in the skill: platform documentation and measured data (research pass, November 2026, plus spot checks on 13 November 2026), public skill frameworks adapted under their licenses, and Reddit practitioner threads.
+
+Evidence grades: A = platform documentation, engineering posts, executive statements or randomized studies; B = large observational vendor datasets; C = single vendor, agency or operator case. Every vendor publisher below sells products related to what it measures.
+
+## Platform documentation and statements
+
+- Meta, "2026: AI Drives Performance", Jan 2026 (A): 75% of US Instagram recommendations from originals in Q4 2025; Facebook +7% organic views, +25% same-day Reels: https://about.fb.com/news/2026/01/2026-ai-drives-performance/
+- Meta, "Rewarding Original Creators on Facebook", Mar 2026 (A): https://about.fb.com/news/2026/03/rewarding-original-creators-on-facebook/
+- Meta, "Cracking Down on Spammy Content on Facebook", Apr 2025 (A): https://about.fb.com/news/2025/04/cracking-down-spammy-content-facebook/
+- Meta, "Test Content With Non-Followers Using Trial Reels", Dec 2024 (A, UI may have changed): https://about.fb.com/news/2024/12/trial-reels-try-content-non-followers-first-see-what-perfoms-best/
+- Meta, "Inspiring Creativity That Brings People Together", Jun 2025 (A/B, 400K+ creators, observational): https://about.fb.com/news/2025/06/inspiring-creativity-that-brings-people-together/
+- Meta, Threads educational insights, Oct 2024 (A, possibly outdated): https://about.fb.com/news/2024/10/find-your-community-with-new-threads-educational-insights/
+- Meta, new Threads features, Mar 2025 (A): https://about.fb.com/news/2025/03/new-threads-features-more-personalized-experience-you-control/
+- Mosseri on Instagram ranking signals, Jan 2025, reported by Social Media Today (A, secondhand): https://www.socialmediatoday.com/news/instagram-shares-algorithm-insights-2025/738034/
+- Instagram five-hashtag limit, Dec 2025, Social Media Today (A, reported): https://www.socialmediatoday.com/news/instagram-implements-new-limits-on-hashtag-use/808309/
+- TikTok five-hashtag limit, Aug 2025, Social Media Today (B, reported; no TikTok press release found): https://www.socialmediatoday.com/news/tiktok-implements-five-hashtag-limit-per-post/757857/
+- Meta for Developers, Instagram Private Replies (A): one private reply per comment within 7 days; follow-ups only after the user replies, within 24 hours: https://developers.facebook.com/docs/messenger-platform/instagram/features/private-replies/
+- Meta, Messenger Platform and Instagram Messaging API policy (A): https://developers.facebook.com/docs/messenger-platform/policy/policy-overview
+- TikTok Support, "How TikTok recommends content" (A, current): https://support.tiktok.com/en/using-tiktok/exploring-videos/how-tiktok-recommends-content
+- TikTok Newsroom, "How TikTok recommends videos For You" (A, 2020 baseline): https://newsroom.tiktok.com/how-tik-tok-recommends-video-for-you
+- YouTube Help, Shorts search and discovery tips (A, current): https://support.google.com/youtube/answer/11914225
+- YouTube Help, Shorts content tab analytics (A): https://support.google.com/youtube/answer/12942217
+- LinkedIn Engineering, "Engineering the next generation of LinkedIn's Feed", 12 Mar 2026 (A): https://www.linkedin.com/blog/engineering/feed/engineering-the-next-generation-of-linkedins-feed
+- LinkedIn News, improving the Feed (pods, comment automation), 2026 (A): https://news.linkedin.com/2026/ImprovingTheFeed
+- LinkedIn Help, Feed relevance (A): https://www.linkedin.com/help/linkedin/answer/a1339724
+- LinkedIn Help, how the Feed ranks content, 2026 (A): https://www.linkedin.com/help/linkedin/answer/a9554004
+- Pinterest Help, Pin performance and distribution (A): https://help.pinterest.com/en/business/article/pin-performance-and-distribution
+- Pinterest Business, "How to build your audience on Pinterest in 2025", Jul 2025 (A): https://business.pinterest.com/blog/how-to-build-audience-pinterest/
+- Pinterest Create, discoverability and SEO (A): https://create.pinterest.com/blog/how-to-increase-discoverability-seo-pinterest/
+- Google Search Central, Search Console for social and video platforms, Jul 2026 (A): https://developers.google.com/search/blog/2026/07/search-console-social-video-platforms
+- Google Search Central, global platform-property rollout, 29 Jul 2026 (A): https://developers.google.com/search/blog/2026/07/platform-properties-social-video-guide
+- Google Search Central, analyze social and video content (A): https://developers.google.com/search/docs/monitor-debug/analyze-social-video-content
+- FTC, Consumer Reviews and Testimonials Rule, in force 21 Oct 2024, Q&A (A): https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers
+- FTC, Disclosures 101 for social media influencers (A): https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers
+
+## Benchmarks and measured data
+
+- Socialinsider, Social Media Benchmarks 2026 (B; 198M posts, 1.16M brand accounts, engagement per follower): https://www.socialinsider.io/social-media-benchmarks
+- Socialinsider, Instagram benchmarks 2026 (B; 67.5M posts, 579K accounts): https://www.socialinsider.io/social-media-benchmarks/instagram
+- Socialinsider, TikTok benchmarks 2026 (B; views -23% YoY while posting rose): https://www.socialinsider.io/social-media-benchmarks/tiktok
+- Socialinsider, LinkedIn benchmarks 2026 (B): https://www.socialinsider.io/social-media-benchmarks/linkedin
+- Socialinsider, Instagram Reels length study, Jan to Jun 2026 (B; 9,771,822 Reels): https://www.socialinsider.io/blog/instagram-reels-length/
+- Socialinsider, TikTok length study, 2026 (B; 6M+ videos): https://www.socialinsider.io/blog/how-long-are-tiktok-videos/
+- Socialinsider, social media video statistics 2026 (B): https://www.socialinsider.io/social-media-benchmarks/social-media-video-statistics
+- Hootsuite, social media benchmarks by industry, 14 Apr 2026 (B; formula not stated): https://blog.hootsuite.com/social-media-benchmarks/
+- Hootsuite, average engagement rates 2026 (B): https://blog.hootsuite.com/average-engagement-rate/
+- Hootsuite, financial services benchmarks, Mar 2025 (B): https://blog.hootsuite.com/social-media-benchmarks-for-financial-services/
+- Hootsuite, education benchmarks 2025 (B): https://blog.hootsuite.com/social-media-education-benchmarks/
+- Rival IQ, 2025 Social Media Industry Benchmark Report, 25 Feb 2025 (B; 150 companies per industry, medians per follower): https://www.rivaliq.com/blog/social-media-industry-benchmark-report/
+- Sprout Social, 2025 Content Benchmarks Report (B): https://sproutsocial.com/insights/data/content-benchmarks/
+- Sprout Social, how often to post, 2025 (B; ~3B messages, 1M profiles): https://sproutsocial.com/insights/how-often-to-post-on-social-media/
+- Sprout Social, 2025 Impact of Social Media Report (B): https://media.sproutsocial.com/uploads/2025/08/Sprout-Social-2025-Impact-of-Social-Media-Report.pdf
+- quso.ai, YouTube Shorts length research 2026 (B; 108,138 Shorts): https://quso.ai/research/youtube-shorts-length
+- JAC Growth Marketing, LinkedIn report summarizing AuthoredUp data, Jul 2025 to Jun 2026 (B; 704,259 profile and 189,909 page posts): https://www.jacgrowthmarketing.com/research/linkedin-report/
+- Metricool, Social Media Study 2026 (B): https://metricool.com/wp-content/uploads/Social-Media-Study-2026-EN.pdf
+- Refine Labs, employee profiles vs brand pages, Q3 2025 (C; 4 accounts, agency): https://www.refinelabs.com/blog/employee-profiles-outperform-brand-pages-linkedin
+- Sociuu x Brandwatch, Employee Amplification Benchmark 2025 (B, vendor): https://sociuu.com/hubfs/Benchmark%202025.pdf
+- MDPI, employee vs company source experiment on LinkedIn, 2026 (A; randomized, n=242, recruitment context): https://www.mdpi.com/2813-4176/4/4/23
+- Journal of Interactive Marketing, employee influencers, 2025 to 2026 (A): https://journals.sagepub.com/doi/10.1177/10949968251385925
+- Keepme, State of US Fitness Operator Lead Conversion 2026 (B, vendor; 45 brands, 1.6M conversations), via the `fitness` skill: https://www.keepme.ai/research/research-the-state-us-fitness-operator-lead-conversion
+- Kyra, fashion engagement benchmarks Q3 2026 (B), via `fashion-apparel`: https://www.kyra.com/benchmarks/fashion
+
+## Conversion and DM automation (vendor case studies, C)
+
+- ManyChat, Amy Porterfield (3,243 leads, 85% registration): https://manychat.com/blog/success-stories/amy-porterfield/
+- ManyChat, Jenna Kutcher (3,187 emails, 1,164 purchases): https://manychat.com/blog/success-stories/jenna-kutcher/
+- ManyChat, Micha Menezes (767 activations in a week): https://manychat.com/blog/success-stories/micha-menezes/
+- ManyChat, comment-to-DM guide with HypeAuditor comparison (46 vs 18 comments): https://manychat.com/blog/instagram-quick-automation-comment-to-dm-guide/
+- HypeAuditor x ManyChat study: https://hypeauditor.com/manychat/
+- ManyChat Help, Instagram post and Reel comments trigger (updated Oct 2026): https://help.manychat.com/en/articles/17741897-instagram-post-and-reel-comments-trigger
+
+## Public skill frameworks (adapted with attribution)
+
+- coreyhaines31/marketingskills (MIT, Copyright (c) 2025 Corey Haines): `skills/social/` (carousel frameworks, short-form video structure and cadence ladder, platform limits, hook bank, reverse engineering), `skills/lead-magnets/` (principles, formats, uncited conversion guidelines), `skills/co-marketing/`. Adapted and condensed in formats-and-hooks.md, conversion.md, cadence-and-production.md and scripts.md. https://github.com/coreyhaines31/marketingskills
+- anthropics/knowledge-work-plugins, small-business `social-content-engine` and `content-strategy` (Apache-2.0): sustainable cadence by team size, theme mix, caption rules, voice re-anchoring, sales-data content brief. Changed: condensed, merged with platform data and Reddit evidence. https://github.com/anthropics/knowledge-work-plugins
+- Ideas only, no text reused: Heuresis Growth-Operator-Agency LinkedIn and short-form agents (proprietary license).
+
+## Reddit practitioner threads
+
+Threads from the organic-social scrape (r/InstagramMarketing, r/socialmedia, r/youtubers, r/LinkedInTips, r/content_marketing, r/Instagram), sorted by upvotes, with the number of usable tactics each produced. Upvotes are the thread's score, not a vote on any single tactic.
+
+- 1000 pts, 8 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1svldn0/i_made_320k_on_instagram_last_year/
+- 725 pts, 1 tactics: https://www.reddit.com/r/Instagram/comments/vz2fqe/are_reels_ruining_instagram/
+- 695 pts, 2 tactics: https://www.reddit.com/r/youtubers/comments/1lgr2ee/i_have_134000_youtube_subscribers_but_i_still/
+- 661 pts, 2 tactics: https://www.reddit.com/r/Instagram/comments/15g7n3e/so_whats_the_point_of_posting_on_instagram_anymore/
+- 619 pts, 2 tactics: https://www.reddit.com/r/youtubers/comments/gmedgl/tips_tricks_2020_youtube_algorithm_quick_tips/
+- 589 pts, 2 tactics: https://www.reddit.com/r/youtubers/comments/oat7de/advice_i_wish_someone_had_told_me_before_starting/
+- 585 pts, 5 tactics: https://www.reddit.com/r/youtubers/comments/ic3zqj/tips_tricks_if_you_cannot_reach_1000_subscribers/
+- 427 pts, 1 tactics: https://www.reddit.com/r/Instagram/comments/1tvcywq/pardon_my_language_but_what_the_f/
+- 403 pts, 2 tactics: https://www.reddit.com/r/youtubers/comments/mecoc6/finally_hit_over_100k_subscribers_and_got_sent/
+- 392 pts, 3 tactics: https://www.reddit.com/r/youtubers/comments/xyg64h/i_set_up_a_gaming_channel_that_made_over_20k/
+- 390 pts, 1 tactics: https://www.reddit.com/r/Instagram/comments/jzoaa4/the_instagram_addiction_method_and_why_its_fed/
+- 323 pts, 3 tactics: https://www.reddit.com/r/youtubers/comments/1i4pd5o/this_is_how_to_make_a_successful_youtube_channel/
+- 319 pts, 2 tactics: https://www.reddit.com/r/socialmedia/comments/4tea5x/freelance_social_media_two_things_i_did_that_my/
+- 276 pts, 8 tactics: https://www.reddit.com/r/socialmedia/comments/1mmi4js/how_i_growth_hacked_instagram_update/
+- 275 pts, 2 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1rjnebw/im_a_professional_social_media_growth_strategist/
+- 261 pts, 3 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1x1vpsp/how_i_make_10kmonth_with_instagram_pages_500k/
+- 253 pts, 7 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1tewn32/ive_grown_three_instagram_pages_past_10000/
+- 240 pts, 1 tactics: https://www.reddit.com/r/socialmedia/comments/v9eiev/i_interviewed_3_instagram_employees_studied_2000/
+- 223 pts, 3 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1rfzrki/after_managing_30_platforms_for_7_years_heres/
+- 221 pts, 3 tactics: https://www.reddit.com/r/youtubers/comments/ojqvum/tips_tricks_after_reviewing_over_1000_channels/
+- 218 pts, 7 tactics: https://www.reddit.com/r/content_marketing/comments/c0avgm/case_study_8_linkedin_tactics_that_really_worked/
+- 208 pts, 3 tactics: https://www.reddit.com/r/socialmedia/comments/17ua82k/i_grew_to_100k_on_instagram_in_30_days/
+- 202 pts, 2 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1sbf6at/10k_followers_in_less_than_20_posts_on_instagram/
+- 196 pts, 4 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1t3l41e/everything_about_the_instagram_algorithm_in_2026/
+- 195 pts, 2 tactics: https://www.reddit.com/r/youtubers/comments/c2fxr8/tips_tricks_7_things_that_helped_me_get_10000/
+- 192 pts, 1 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1pbkt4t/creators_with_10k_followers_are_making_more_money/
+- 190 pts, 7 tactics: https://www.reddit.com/r/youtubers/comments/102s2tn/i_secured_over_1000000_in_brand_deals_for_2022/
+- 182 pts, 1 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1uaajqs/i_think_almost_anyone_can_grow_a_theme_page_with/
+- 182 pts, 1 tactics: https://www.reddit.com/r/youtubers/comments/ah7p76/tricks_and_tips_thursdays_tip_how_to_get/
+- 180 pts, 1 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1t2csdf/went_from_42_to_1000_followers_in_just_10_days/
+- 179 pts, 4 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1qg4b1k/gained_6000_followers_in_48_hours_from_one_reel/
+- 177 pts, 1 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1v6g0ew/i_quit_my_job_to_do_instagram_full_time_six/
+- 177 pts, 3 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1vcke9y/everything_about_instagram_algorithm_part_3/
+- 175 pts, 3 tactics: https://www.reddit.com/r/youtubers/comments/pn82s7/i_just_reached_1_year_on_youtube_in_that_year_i/
+- 167 pts, 4 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1x0oiyj/my_reel_went_viral_2500_followers_25m_views_200k/
+- 164 pts, 5 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1sz8ysk/how_i_grow_instagram_theme_pages_to_millions_of/
+- 164 pts, 1 tactics: https://www.reddit.com/r/youtubers/comments/mvv74n/tips_tricks_the_best_advice_i_can_give_after_16/
+- 164 pts, 1 tactics: https://www.reddit.com/r/youtubers/comments/pfop1k/tips_tricks_the_stb_technique_cracking_the/
+- 161 pts, 2 tactics: https://www.reddit.com/r/youtubers/comments/j7apcf/tips_tricks_after_uploading_400_videos_i_finally/
+- 160 pts, 1 tactics: https://www.reddit.com/r/youtubers/comments/haf24s/question_someone_on_tiktok_is_stealing_my_youtube/
+- 158 pts, 3 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1wbscds/no_posting_consistently_isnt_enough_to_grow_your/
+- 155 pts, 2 tactics: https://www.reddit.com/r/LinkedInTips/comments/1taybmd/ive_been_ghostwriting_linkedin_content_for_3/
+- 153 pts, 4 tactics: https://www.reddit.com/r/youtubers/comments/ki9hi6/tips_tricks_things_i_learned_about_the_youtube/
+- 152 pts, 9 tactics: https://www.reddit.com/r/LinkedInTips/comments/1vhs9uh/i_analyzed_130000_linkedin_posts_to_find_what/
+- 151 pts, 3 tactics: https://www.reddit.com/r/socialmedia/comments/12js0up/social_is_dead_only_media_left/
+- 149 pts, 3 tactics: https://www.reddit.com/r/youtubers/comments/yf7olj/tips_tricks_everything_from_0_to_15k_subscribers/
+- 149 pts, 3 tactics: https://www.reddit.com/r/youtubers/comments/hhbnk0/tips_tricks_summary_of_all_the_interesting/
+- 147 pts, 7 tactics: https://www.reddit.com/r/socialmedia/comments/c0b01c/8_linkedin_tactics_that_really_worked_for_usand_5/
+- 145 pts, 1 tactics: https://www.reddit.com/r/youtubers/comments/bas9fh/tips_tricks_nine_things_ive_learned_after_a_year/
+- 144 pts, 3 tactics: https://www.reddit.com/r/youtubers/comments/lp4kor/tips_tricks_0_to_1000_subs_in_1_month_my_top_7/
+- 143 pts, 1 tactics: https://www.reddit.com/r/youtubers/comments/l20kpw/tips_tricks_why_you_should_keep_at_it_i_just_had/
+- 140 pts, 2 tactics: https://www.reddit.com/r/content_marketing/comments/knju7i/12_things_i_learned_about_creating_a_successful/
+- 139 pts, 2 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1wr18c7/my_instagram_views_skyrocketed_after_4_months_of/
+- 139 pts, 1 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1ud2uhf/caption_seo_is_real_now_hashtags_are_dying_heres/
+- 138 pts, 1 tactics: https://www.reddit.com/r/youtubers/comments/rae3i8/to_everyone_wondering_why_youtube_is_so_hard_or/
+- 132 pts, 1 tactics: https://www.reddit.com/r/youtubers/comments/m6guhm/tips_tricks_even_if_youre_discouraged_keep/
+- 131 pts, 3 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1xayof7/ive_made_18468_from_instagram_videos_i_started/
+- 130 pts, 1 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1w3srre/authentic_ways_ive_grown_my_instagram_account/
+- 126 pts, 1 tactics: https://www.reddit.com/r/youtubers/comments/lv7f14/tips_tricks_full_time_youtuber_here_to_answer_any/
+- 126 pts, 3 tactics: https://www.reddit.com/r/youtubers/comments/aajx0q/tips_tricks_how_i_went_from_0_to_100000/
+- 126 pts, 3 tactics: https://www.reddit.com/r/youtubers/comments/hvqoex/tips_tricks_if_youre_in_the_yt_journey_this_is/
+- 125 pts, 2 tactics: https://www.reddit.com/r/socialmedia/comments/f06mxq/whats_the_secret_to_getting_verified_on_instagram/
+- 123 pts, 5 tactics: https://www.reddit.com/r/socialmedia/comments/1q6agm2/some_lowkey_social_media_tricks_that_actually/
+- 118 pts, 1 tactics: https://www.reddit.com/r/socialmedia/comments/jdr5ih/how_to_get_instagram_content_ideas_for_your_small/
+- 117 pts, 3 tactics: https://www.reddit.com/r/content_marketing/comments/k3voyf/i_made_679_from_an_article/
+- 115 pts, 3 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1qpdn2f/was_not_aware_that_you_had_to_warm_up_instagram/
+- 114 pts, 1 tactics: https://www.reddit.com/r/content_marketing/comments/wkyw7x/how_seo_saved_us_as_a_small_business_we_ranked/
+- 113 pts, 4 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1xddyii/you_dont_need_virality_to_gain_followers/
+- 113 pts, 1 tactics: https://www.reddit.com/r/youtubers/comments/np9utb/tips_tricks_i_temporarily_quit_a_20k_subscriber/
+- 110 pts, 1 tactics: https://www.reddit.com/r/socialmedia/comments/7vy0mw/facebooks_algorithm_is_changing_heres_what_that/
+- 110 pts, 2 tactics: https://www.reddit.com/r/socialmedia/comments/ea9w0k/ultimate_instagram_hashtag_guide_strategy_ive/
+- 109 pts, 2 tactics: https://www.reddit.com/r/youtubers/comments/1jhe4fj/why_are_so_many_creators_chasing_shorts_and_ai/
+- 107 pts, 1 tactics: https://www.reddit.com/r/youtubers/comments/diwvdz/tips_tricks_what_i_learned_growing_from_zero_to/
+- 106 pts, 2 tactics: https://www.reddit.com/r/youtubers/comments/ou0f9e/tips_tricks_how_much_youtube_pays_for_1_million/
+- 105 pts, 2 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1tfh34h/unpopular_opinion_90_of_i_grew_my_instagram_to/
+- 104 pts, 1 tactics: https://www.reddit.com/r/youtubers/comments/12dqigb/what_i_learned_from_watching_100s_of_video_essays/
+- 103 pts, 4 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1tgna95/i_posted_2_reels_every_day_for_a_week_here_are/
+- 101 pts, 1 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1p3xa75/instagrams_algorithm_is_designed_to_keep_you_poor/
+- 101 pts, 7 tactics: https://www.reddit.com/r/youtubers/comments/ezkj8y/tips_tricks_reached_26k_subs_first_month_on_yt_my/
+- 101 pts, 4 tactics: https://www.reddit.com/r/youtubers/comments/n7mutv/consistency_and_quantity_really_does_matter_40/
+- 100 pts, 2 tactics: https://www.reddit.com/r/content_marketing/comments/kowdjb/7_content_marketing_strategy_for_2021/
+- 100 pts, 2 tactics: https://www.reddit.com/r/youtubers/comments/i3glyu/tips_tricks_i_recently_ran_my_first_ever_giveaway/
+- 99 pts, 1 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1urw4j2/deleting_most_of_my_followers_increased_both_my/
+- 99 pts, 6 tactics: https://www.reddit.com/r/youtubers/comments/198mi8d/4000000_of_secured_sponsorships_in_2023_what_we/
+- 98 pts, 3 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1tq009i/instagrams_search_bar_is_gone_meta_ai_took_its/
+- 97 pts, 3 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1wf4aaf/what_i_learned_going_from_5k_to_200k_followers_in/
+- 97 pts, 1 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1xsfr22/the_thing_that_actually_grew_my_account_was/
+- 97 pts, 5 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1sv7xj4/0_to_40k_in_6_months_i_only_posted_carousels_not/
+- 96 pts, 7 tactics: https://www.reddit.com/r/content_marketing/comments/1oe2u03/i_analyzed_100_social_media_giveaways_heres_what/
+- 96 pts, 1 tactics: https://www.reddit.com/r/youtubers/comments/l438xc/question_are_you_looking_for_royalty_free_music/
+- 94 pts, 2 tactics: https://www.reddit.com/r/socialmedia/comments/d4v0x0/how_to_master_instagram/
+- 94 pts, 1 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1tpn8zs/honest_instagram_tips_from_a_social_media_manager/
+- 93 pts, 2 tactics: https://www.reddit.com/r/socialmedia/comments/go8e0p/the_ultimate_pinterest_marketing_guide_why/
+- 93 pts, 1 tactics: https://www.reddit.com/r/LinkedInTips/comments/1nb3uk7/this_guy_makes_264000month_on_linkedin_and_im/
+- 93 pts, 2 tactics: https://www.reddit.com/r/youtubers/comments/honn2q/question_having_trouble_making_money_on_youtube_i/
+- 92 pts, 2 tactics: https://www.reddit.com/r/socialmedia/comments/1livyw5/i_test_ig_strategies_daily_for_clients_these_3/
+- 91 pts, 3 tactics: https://www.reddit.com/r/youtubers/comments/iqigz8/tips_tricks_what_ive_learned_over_3_million_views/
+- 89 pts, 2 tactics: https://www.reddit.com/r/socialmedia/comments/he24wf/how_to_increase_engagement_on_your_instagram/
+- 88 pts, 1 tactics: https://www.reddit.com/r/socialmedia/comments/1xnsm93/i_started_requiring_a_3_month_minimum_and_the/
+- 88 pts, 1 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1wzvtnn/wtf_happened_to_instagram/
+- 88 pts, 3 tactics: https://www.reddit.com/r/content_marketing/comments/1c6bofh/i_work_with_a_youtuber_that_makes_over_2m/
+- 87 pts, 2 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1qciofs/i_finally_understand_the_algo_long_post/
+- 86 pts, 3 tactics: https://www.reddit.com/r/socialmedia/comments/gme1bw/instagram_account_genetics_why_all_accounts_are/
+- 86 pts, 1 tactics: https://www.reddit.com/r/youtubers/comments/id9jzd/tips_tricks_how_i_earn_80_per_month_off_adsense/
+- 86 pts, 3 tactics: https://www.reddit.com/r/youtubers/comments/g4ibyz/tips_tricks_were_cole_charisma_parttime_youtubers/
+- 84 pts, 1 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1x6ez1h/hired_a_social_media_manager_what_is_she_doing/
+- 83 pts, 12 tactics: https://www.reddit.com/r/LinkedInTips/comments/1r1miar/the_ultimate_linkedin_growth_guide_2026/
+- 83 pts, 1 tactics: https://www.reddit.com/r/youtubers/comments/791ig0/tips_tricks_the_1_reason_youre_not_getting_more/
+- 82 pts, 3 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1sy9uv6/grew_a_new_page_from_0_to_15k_in_6_weeks_using/
+- 82 pts, 1 tactics: https://www.reddit.com/r/youtubers/comments/mpvn2y/tips_tricks_how_to_get_better_seo/
+- 81 pts, 4 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1sryofc/instagram_reach_is_basically_gone/
+- 81 pts, 1 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1ucdpbl/carousels_are_quietly_the_most_underrated_format/
+- 80 pts, 5 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1u0ldt6/what_actually_grew_my_startups_instagram_from_0/
+- 79 pts, 1 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1ue4g0j/viral_kumar_method_is_a_blue_ocean_opportunity/
+- 79 pts, 2 tactics: https://www.reddit.com/r/youtubers/comments/ipgo6q/question_what_are_some_successful_ways_people/
+- 78 pts, 1 tactics: https://www.reddit.com/r/socialmedia/comments/1mikgwt/am_i_tripping_or_do_schedulers_actually_kill_your/
+- 78 pts, 3 tactics: https://www.reddit.com/r/content_marketing/comments/1bu8z2c/my_17step_process_for_writing_really_good_blog/
+- 78 pts, 1 tactics: https://www.reddit.com/r/youtubers/comments/p9kc9z/tips_tricks_what_happened_when_i_actually/
+- 77 pts, 2 tactics: https://www.reddit.com/r/socialmedia/comments/1xcnz78/my_client_was_paying_for_20_hours_and_using_9_i/
+- 77 pts, 1 tactics: https://www.reddit.com/r/youtubers/comments/j9n2v3/question_youtubers_listing_what_their_video_is/
+- 76 pts, 3 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1tqizt0/instagram_doesnt_work_the_way_you_think_it_does/
+- 75 pts, 2 tactics: https://www.reddit.com/r/content_marketing/comments/ldjw3o/from_zero_to_300k_monthly_visitors_through/
+- 75 pts, 1 tactics: https://www.reddit.com/r/youtubers/comments/lq0i77/question_what_are_the_best_ways_to_outgrow/
+- 75 pts, 1 tactics: https://www.reddit.com/r/youtubers/comments/l0ur1x/tips_tricks_youtube_algorithm_and_dying_channels/
+- 74 pts, 6 tactics: https://www.reddit.com/r/youtubers/comments/1ml6eeo/ideas_to_grow_your_channel_here_is_what_worked/
+- 73 pts, 1 tactics: https://www.reddit.com/r/youtubers/comments/10fucn7/making_a_living_as_a_youtuber_ad_revenue_company/
+- 70 pts, 5 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1sw8gmz/reach_in_2026_is_dead_on_instagram_its_not_a/
+- 70 pts, 3 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1tpgvso/grew_my_faceless_ig_to_10m_monthly_impressions/
+- 70 pts, 1 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1tzqe4q/heres_how_to_set_the_niche_for_your_ig_account/
+- 69 pts, 4 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1sfosqm/5_instagram_growth_strategies_that_actually_work/
+- 69 pts, 1 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1rv133g/i_think_my_mate_just_signed_the_worst_brand_deal/
+- 69 pts, 4 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1ta6elg/went_from_0_to_10k_in_under_90_days_4_timesheres/
+- 69 pts, 6 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1rjkxcj/everything_stuck_at_105_views_and_i_just_now/
+- 69 pts, 4 tactics: https://www.reddit.com/r/youtubers/comments/h0wsfj/question_what_are_your_favorite_social_media_to/
+- 69 pts, 1 tactics: https://www.reddit.com/r/youtubers/comments/myc0ul/question_how_do_you_promote_your_channel_without/
+- 69 pts, 2 tactics: https://www.reddit.com/r/youtubers/comments/hzxift/tips_tricks_how_to_make_the_most_of_a_video_and/
+- 68 pts, 4 tactics: https://www.reddit.com/r/socialmedia/comments/1mgj1ls/i_pull_100m_views_monthly_on_instagram_here_are/
+- 68 pts, 3 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1t6rkhm/i_need_real_life_proof_that_it_is_possible_for_a/
+- 68 pts, 1 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1xrpxp0/common_myths_misconceptions_and_advice_you_should/
+- 67 pts, 2 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1tj59sb/put_the_handle_of_your_instagram_page_below/
+- 67 pts, 2 tactics: https://www.reddit.com/r/content_marketing/comments/zc95w2/the_best_marketing_tips_ive_learned_tracking/
+- 66 pts, 1 tactics: https://www.reddit.com/r/content_marketing/comments/l0s9kw/8_million_leads_per_year_through_content_clusters/
+- 66 pts, 1 tactics: https://www.reddit.com/r/content_marketing/comments/kvn17r/what_is_keeping_you_and_your_team_from_creating/
+- 65 pts, 2 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1up38hi/helped_a_coach_go_from_0_to_7k_followers_and_700/
+- 65 pts, 4 tactics: https://www.reddit.com/r/content_marketing/comments/nlgziq/how_i_go_viral_on_linkedin_and_add_1650_mrr_with/
+- 64 pts, 7 tactics: https://www.reddit.com/r/socialmedia/comments/1ewxbgo/social_media_tips_for_businesses/
+- 64 pts, 1 tactics: https://www.reddit.com/r/youtubers/comments/jzdedy/tips_tricks_how_much_energy_is_too_much_and_how/
+- 63 pts, 4 tactics: https://www.reddit.com/r/socialmedia/comments/3dach7/i_asked_15_social_media_pros_for_their_tips_on/
+- 63 pts, 1 tactics: https://www.reddit.com/r/youtubers/comments/i04woo/growing_channel_sponsorship/
+- 62 pts, 1 tactics: https://www.reddit.com/r/youtubers/comments/18ldesf/is_it_just_me_or_youtube_is_having_a_surge_in/
+- 61 pts, 2 tactics: https://www.reddit.com/r/socialmedia/comments/1ok8zk6/i_posted_just_reels_for_20_days_on_a_new/
+- 61 pts, 6 tactics: https://www.reddit.com/r/socialmedia/comments/1xav07k/i_sold_ad_space_on_my_toilet_and_it_went_viral/
+- 60 pts, 1 tactics: https://www.reddit.com/r/socialmedia/comments/ql6ui9/a_simple_method_to_find_influencers_on_tiktok/
+- 60 pts, 2 tactics: https://www.reddit.com/r/socialmedia/comments/hfbel1/checklist_10_simple_ways_local_businesses_can/
+- 60 pts, 1 tactics: https://www.reddit.com/r/socialmedia/comments/12ap28e/what_is_happening_with_social_media_twitters/
+- 60 pts, 1 tactics: https://www.reddit.com/r/InstagramMarketing/comments/1sww8js/54m_views_350_avg_daily_followers_4_reels_3_posts/
+- 60 pts, 1 tactics: https://www.reddit.com/r/content_marketing/comments/lmxqbp/young_broke_and_voiceless_why_underdogs_have_an/
+- 60 pts, 6 tactics: https://www.reddit.com/r/youtubers/comments/ejl8lm/question_medium_to_larger_youtubers_how_did_you/
+- 58 pts, 2 tactics: https://www.reddit.com/r/socialmedia/comments/hcucho/you_are_not_shadowbanned_exposing_the_real/
+- 57 pts, 1 tactics: https://www.reddit.com/r/content_marketing/comments/o8851s/my_boss_asked_me_to_increase_traffic_social_media/
+- 57 pts, 2 tactics: https://www.reddit.com/r/content_marketing/comments/1qstjwb/how_a_b2b_company_makes_millions_with_their_tiny/
+- 57 pts, 6 tactics: https://www.reddit.com/r/LinkedInTips/comments/1xohzkt/people_dont_realize_how_easy_it_is_to_book_calls/
+- 56 pts, 1 tactics: https://www.reddit.com/r/socialmedia/comments/8qhb1s/business_owners_dont_be_conned_a_guide_to/
+- 56 pts, 2 tactics: https://www.reddit.com/r/socialmedia/comments/6ptbsi/using_cause_marketing_and_smart_social_media/
+- 55 pts, 4 tactics: https://www.reddit.com/r/content_marketing/comments/kyhaes/strategies_to_take_advantage_of_facebook_groups/
+- 54 pts, 1 tactics: https://www.reddit.com/r/socialmedia/comments/1o07ei9/creator_list_of_tools_from_reddit/
+- 53 pts, 1 tactics: https://www.reddit.com/r/LinkedInTips/comments/1nbjejo/the_weird_linkedin_algorithm_trick_i_discovered/
+- 52 pts, 1 tactics: https://www.reddit.com/r/socialmedia/comments/19da7ct/heres_what_social_media_agencies_dont_want_you_to/
+- 52 pts, 2 tactics: https://www.reddit.com/r/socialmedia/comments/x28pg8/ive_been_tracking_social_media_platforms_from/
+- 52 pts, 7 tactics: https://www.reddit.com/r/LinkedInTips/comments/1onii82/i_paid_5_influencers_on_linkedin_to_promote_my/
+- 51 pts, 3 tactics: https://www.reddit.com/r/socialmedia/comments/gwi8d1/how_to_grow_10000_real_active_instagram_followers/
+- 51 pts, 5 tactics: https://www.reddit.com/r/socialmedia/comments/y4p769/i_spent_3_days_reading_30_marketing_reports/
+- 50 pts, 1 tactics: https://www.reddit.com/r/socialmedia/comments/kd55r2/0200_followers_in_two_weeks_with_three_threads_17/
+- 49 pts, 1 tactics: https://www.reddit.com/r/content_marketing/comments/fertb0/how_to_use_reddit_to_generate_new_blog_post_ideas/
+- 48 pts, 2 tactics: https://www.reddit.com/r/content_marketing/comments/d7bn66/how_i_leveraged_a_1000_view_video_to_get_on_abc/
+- 47 pts, 2 tactics: https://www.reddit.com/r/socialmedia/comments/1tmy0x3/post_consistently_is_the_biggest_lie_youve_been/
+- 46 pts, 1 tactics: https://www.reddit.com/r/content_marketing/comments/m3mp8x/instagram_sharing_what_weve_found_by_digging_data/
+- 45 pts, 1 tactics: https://www.reddit.com/r/socialmedia/comments/1wktqyc/facebook_is_offering_creators_from_tiktok_and/
+- 45 pts, 4 tactics: https://www.reddit.com/r/content_marketing/comments/1itn609/step_by_step_guide_on_how_i_market_on_reddit/
+- 42 pts, 1 tactics: https://www.reddit.com/r/socialmedia/comments/1pqhkx0/this_is_what_instagram_in_2025_looked_like_brands/
+- 42 pts, 3 tactics: https://www.reddit.com/r/content_marketing/comments/1lo658g/73_blog_websites_89_seo_experiments_60_failures/
+- 42 pts, 3 tactics: https://www.reddit.com/r/LinkedInTips/comments/1hhrhrc/how_i_achieved_48k_impressions_on_linkedin_in_60/
+- 42 pts, 1 tactics: https://www.reddit.com/r/LinkedInTips/comments/1t77jrh/i_was_getting_decent_linkedin_engagement_for_a/
+- 41 pts, 3 tactics: https://www.reddit.com/r/socialmedia/comments/1sa6wjf/unpopular_opinion_posting_more_on_instagram_wont/
+- 41 pts, 2 tactics: https://www.reddit.com/r/LinkedInTips/comments/1od0z4a/i_paid_2_influencers_on_linkedin_to_promote_my/
+- 41 pts, 1 tactics: https://www.reddit.com/r/LinkedInTips/comments/1nsh2jr/i_applied_to_100_jobs_in_2023_got_1_reply_now_i/
+- 40 pts, 3 tactics: https://www.reddit.com/r/socialmedia/comments/1r8lbsq/cut_my_content_costs_from_500mo_to_0_after/
+- 40 pts, 2 tactics: https://www.reddit.com/r/LinkedInTips/comments/1op3n6a/how_to_grow_fast_on_linkedin_in_1_min/
+- 39 pts, 1 tactics: https://www.reddit.com/r/content_marketing/comments/1qgrnml/after_two_years_of_attempts_i_finally_understood/
+- 39 pts, 3 tactics: https://www.reddit.com/r/content_marketing/comments/blzukf/some_tips_on_coming_up_with_ideas_for_content/
+- 38 pts, 1 tactics: https://www.reddit.com/r/socialmedia/comments/1xkd29n/my_client_assumed_i_would_cover_black_friday/
+- 38 pts, 3 tactics: https://www.reddit.com/r/content_marketing/comments/krocp0/how_we_grew_our_customers_blog_traffic_by_over_50/
+- 38 pts, 1 tactics: https://www.reddit.com/r/content_marketing/comments/1it4nrj/my_best_advice_is_to_stop_selling_seriously/
+- 37 pts, 1 tactics: https://www.reddit.com/r/content_marketing/comments/8y345o/how_to_find_blog_subtopics_that_your_target/
+- 37 pts, 2 tactics: https://www.reddit.com/r/LinkedInTips/comments/1v7k276/from_zero_to_over_1100_followers_in_4_months_in/
+- 36 pts, 2 tactics: https://www.reddit.com/r/content_marketing/comments/hcscws/specific_tips_for_content_marketing/
+- 35 pts, 2 tactics: https://www.reddit.com/r/content_marketing/comments/1aytli7/why_you_shouldnt_use_ai_to_write_your_content/
+- 35 pts, 1 tactics: https://www.reddit.com/r/LinkedInTips/comments/1wrgjzf/i_uploaded_all_my_linkedin_saved_posts_into_an_ai/
+- 34 pts, 4 tactics: https://www.reddit.com/r/socialmedia/comments/1w0wzie/our_county_parks_instagram_sat_at_1400_followers/
+- 34 pts, 1 tactics: https://www.reddit.com/r/content_marketing/comments/1p6h3gn/interviewed_26_cmos_here_are_the_4_underrated/
+- 32 pts, 4 tactics: https://www.reddit.com/r/content_marketing/comments/f88zta/3rd_competition_giveaway_campaign_generates_110k/
+- 32 pts, 1 tactics: https://www.reddit.com/r/content_marketing/comments/1oo6eki/5_marketing_reads_that_actually_taught_me/
+- 31 pts, 1 tactics: https://www.reddit.com/r/content_marketing/comments/1hfmmct/bing_is_seriously_underrated/
+- 31 pts, 1 tactics: https://www.reddit.com/r/LinkedInTips/comments/1vg655n/15_year_of_of_100400_impressions_per_post_started/
+- 30 pts, 1 tactics: https://www.reddit.com/r/content_marketing/comments/1wtfd9n/visual_hooks_volume_took_us_to_10k_mrr/
+- 29 pts, 2 tactics: https://www.reddit.com/r/content_marketing/comments/1kmcp7p/want_googles_ai_to_quote_your_blog_content_i_did/
+- 29 pts, 1 tactics: https://www.reddit.com/r/LinkedInTips/comments/1mtqscv/ai_marketing_whatsapp_group_for_linkedin/
+- 28 pts, 5 tactics: https://www.reddit.com/r/LinkedInTips/comments/1tkg96m/410_replies_from_contacting_people_who/
+- 27 pts, 2 tactics: https://www.reddit.com/r/content_marketing/comments/8q9flu/how_the_750_million_mattress_company_casper_does/
+- 27 pts, 2 tactics: https://www.reddit.com/r/content_marketing/comments/sxbgcl/how_i_did_my_organic_reddit_marketing/
+- 27 pts, 3 tactics: https://www.reddit.com/r/LinkedInTips/comments/1p214pf/i_just_joined_a_b2b_company_as_their_social_media/
+- 27 pts, 2 tactics: https://www.reddit.com/r/LinkedInTips/comments/1sxywow/if_i_had_to_grow_a_linkedin_account_from_0_today/
+- 26 pts, 3 tactics: https://www.reddit.com/r/socialmedia/comments/1uez8w0/how_to_warm_up_tiktok_account_for_max_reach/
+- 26 pts, 1 tactics: https://www.reddit.com/r/content_marketing/comments/1k4zjdg/how_i_used_ai_to_create_content_that_outranked/
+- 24 pts, 2 tactics: https://www.reddit.com/r/socialmedia/comments/1x79kxc/i_made_14_reels_in_55_days_and_the_editing_got/
+- 24 pts, 1 tactics: https://www.reddit.com/r/content_marketing/comments/1p24gn5/after_500_hours_creating_ai_agents_for_content/
+- 24 pts, 1 tactics: https://www.reddit.com/r/LinkedInTips/comments/1noicjo/one_of_my_linkedin_posts_is_currently_going_viral/
+- 23 pts, 3 tactics: https://www.reddit.com/r/content_marketing/comments/1spocjm/i_ranked_8_posts_on_google_page_1_across/
+- 23 pts, 1 tactics: https://www.reddit.com/r/LinkedInTips/comments/1rehn1s/your_headline_is_the_most_important_part_of_your/
+- 23 pts, 1 tactics: https://www.reddit.com/r/LinkedInTips/comments/1pp1d27/stop_spamming_cold_dms_on_linkedin_it_makes_you/
+- 22 pts, 4 tactics: https://www.reddit.com/r/LinkedInTips/comments/1vyq5et/how_to_grow_your_audience_on_linkedin/
+- 22 pts, 1 tactics: https://www.reddit.com/r/LinkedInTips/comments/1s7jgg8/5_ways_to_fix_your_low_linkedin_engagement/
+- 21 pts, 3 tactics: https://www.reddit.com/r/LinkedInTips/comments/1h81eba/your_nobs_guide_to_make_linkedin_work_for_you/
+- 21 pts, 3 tactics: https://www.reddit.com/r/LinkedInTips/comments/1o821lp/ive_analyzed_over_450_linkedin_outreach_campaigns/
+- 21 pts, 5 tactics: https://www.reddit.com/r/LinkedInTips/comments/1izsm6u/do_you_have_suggested_searches_or_campaign/
+- 20 pts, 1 tactics: https://www.reddit.com/r/content_marketing/comments/1vypdzo/if_organic_traffic_keeps_declining_where_are_you/
+- 19 pts, 1 tactics: https://www.reddit.com/r/LinkedInTips/comments/1ja13e7/whats_a_good_conversion_rate_to_invitations_to/
+- 16 pts, 1 tactics: https://www.reddit.com/r/LinkedInTips/comments/1n84r15/the_linkedin_connection_mistake_thats_killing/
+- 15 pts, 1 tactics: https://www.reddit.com/r/content_marketing/comments/1w6d755/a_content_strategy_move_that_beat_publishing_more/
+- 15 pts, 1 tactics: https://www.reddit.com/r/LinkedInTips/comments/1nk82jz/how_a_google_sheet_i_made_brought_me_6_leads_in/
+- 15 pts, 1 tactics: https://www.reddit.com/r/LinkedInTips/comments/1txk395/13_months_of_100400_impressions_tried_scanning/
+### Cited from other segment scrapes
+
+- 2,740 pts, r/Entrepreneur (backpack creator program): https://www.reddit.com/r/Entrepreneur/comments/vqr0hm/from_18kmo_to_260kmo_in_5_months_selling_backpacks/
+- 2,608 pts, r/restaurantowners (town photo mural): https://www.reddit.com/r/restaurantowners/comments/1ktcfxa/the_restaurant_across_the_street_accidentally/
+- 2,344 pts, r/lashextensions (lengths in caption): https://www.reddit.com/r/lashextensions/comments/1arrowq/wha_i_asked_for_vs_what_i_got/
+- 1,944 pts, r/Etsy (process proof vs AI): https://www.reddit.com/r/Etsy/comments/1aswlol/etsy_needs_to_ban_ai_asap/
+- 1,713 pts, r/Entrepreneur (YouTube tutorial to $18K deal): https://www.reddit.com/r/Entrepreneur/comments/yopjb9/how_i_made_47k_selling_an_unsexy_product_i_built/
+- 1,068 pts, r/Entrepreneur (Shorts funnel, 5.4K to 102K subscribers): https://www.reddit.com/r/Entrepreneur/comments/17o2f6t/how_i_grew_my_youtube_channel_from_5k_to_100k/
+- 866 pts, r/passive_income (daily quick-win videos, 364 sales): https://www.reddit.com/r/passive_income/comments/1ki23hk/how_i_made_almost_10k_selling_digital_products/
+- 827 pts, r/InstagramMarketing (reported Meta guidance): https://www.reddit.com/r/InstagramMarketing/comments/1d2jkil/i_talked_with_meta_directly_yesterday_about_their/
+- 631 pts, r/realestateinvesting (private lender from Facebook posts): https://www.reddit.com/r/realestateinvesting/comments/yp5kqz/how_i_flipped_a_lot_and_made_40k/
+- 601 pts, r/ecommerce (Gen Z shops via TikTok): https://www.reddit.com/r/ecommerce/comments/1h4c5t4/watching_my_gen_z_gf_shop_online_has_made_me/
+- 601 pts, r/streetwearstartup (hand-delivery story): https://www.reddit.com/r/streetwearstartup/comments/1utsywh/flew_from_us_to_tokyo_to_hand_deliver_our_beanies/
+- 475 pts, r/marketing (objection videos): https://www.reddit.com/r/marketing/comments/1mpkpu5/hot_take_not_every_company_needs_an_active_social/
+- 346 pts, r/copywriting (transcript quote table): https://www.reddit.com/r/copywriting/comments/1oinez1/google_notebooklm_is_the_best_thing_thats_ever/
+- 303 pts, r/DigitalMarketing (vote on the glaze): https://www.reddit.com/r/DigitalMarketing/comments/1rrf387/is_it_just_me_or_is_marketing_starting_to_feel/
+- 300 pts, r/shopify (branded packaging): https://www.reddit.com/r/shopify/comments/o52bwf/just_hit_my_10000th_order_advice_for_newbies/
+- 226 pts, r/ecommerce (niche Facebook group, 800+ visitors): https://www.reddit.com/r/ecommerce/comments/ku32ss/how_i_got_800_visitors_and_50_orders_for_free_in/
+- 225 pts, r/WeddingPhotography (carousels for couples): https://www.reddit.com/r/WeddingPhotography/comments/1qzdnqr/as_a_former_bride_please_include_carousels_and/
+- 225 pts, r/InstagramMarketing (founder story plus tip, 2.1% to 6.3%): https://www.reddit.com/r/InstagramMarketing/comments/1ou74f8/im_a_professional_social_media_growth_strategist/
+- 203 pts, r/foodtrucks (visiting local restaurants): https://www.reddit.com/r/foodtrucks/comments/1w1z2j7/my_food_truck_is_making_local_business_owners_mad/
+- 178 pts, r/ecommerce (naming contest, $165K year one): https://www.reddit.com/r/ecommerce/comments/7njrg9/my_first_business_closed_its_first_year_at_165k/
+- 174 pts, r/realtors (camera-shy batching, 20 client questions): https://www.reddit.com/r/realtors/comments/1vhov07/if_you_hate_being_on_camera_but_keep_getting_told/
+- 160 pts, r/pressurewashing (843K-view fence video): https://www.reddit.com/r/pressurewashing/comments/1svj0vm/sodium_metasilicate_fence_cleaning/
+- 144 pts, r/shopify (Pinterest vs Instagram for candles): https://www.reddit.com/r/shopify/comments/1ole8em/pinterest_drives_60_of_my_shopify_traffic_now/
+- 139 pts, r/restaurantowners (private-party posts): https://www.reddit.com/r/restaurantowners/comments/1hi9k3g/ive_noticed_numerous_small_business_tweaks_have/
+- 135 pts, r/socialmedia (one-month follow-up post): https://www.reddit.com/r/socialmedia/comments/1x1m87g/what_social_media_trend_are_you_noticing_right_now/
+- 134 pts, r/InstagramMarketing (jewelry customer stories): https://www.reddit.com/r/InstagramMarketing/comments/1h8shym/mistakes_that_arent_letting_you_grown_on_social/
+- 132 pts, r/DigitalMarketing (keyword in Facebook page name): https://www.reddit.com/r/DigitalMarketing/comments/1jz27hb/whats_one_underrated_tactic_in_digital_marketing/
+- 105 pts, r/hairstylist (transformations vs portfolio): https://www.reddit.com/r/hairstylist/comments/1qwtx9u/being_a_hairstylist_means_to_some_also_being_a/
+- 104 pts, r/ecommerce (300 review videos in 60 days): https://www.reddit.com/r/ecommerce/comments/13g86q4/25_million_in_sales_while_paid_ads_are_turned_off/
+- 100 pts, r/socialmedia (3 posts a day for a month): https://www.reddit.com/r/socialmedia/comments/1p43zye/i_tried_posting_3_times_a_day_for_a_month_and/
+- 81 pts, r/restaurantowners (influencer meal checks): https://www.reddit.com/r/restaurantowners/comments/1pl0t6w/really_struggling_on_sales_and_just_need_to_vent/
+- 76 pts, r/personaltraining (tag the gym): https://www.reddit.com/r/personaltraining/comments/1xohnno/message_to_all_new_pts/
+- 74 pts, r/Substack (3,640 Notes analysis): https://www.reddit.com/r/Substack/comments/1x3vuss/i_have_posted_3640_notes_in_15_months_and_logged/
+- 69 pts, r/WeddingPhotography (rehearsal-dinner preview): https://www.reddit.com/r/WeddingPhotography/comments/1vz218f/a_simple_prewedding_thing_ive_never_really_seen/
+- 59 pts, r/printondemand (cover image A/B): https://www.reddit.com/r/printondemand/comments/1osba9i/i_stopped_designing_and_started_testing_heres_the/
+- 58 pts, r/FacebookAds (customer interview shoots): https://www.reddit.com/r/FacebookAds/comments/1vzroav/113146113_in_sales_with_13764126_ad_spend_822/
+- 45 pts, r/sweatystartup (dirty-water bucket): https://www.reddit.com/r/sweatystartup/comments/1sal2yh/update_01_follow_me_from_0_to_1000_a_week/
+- 37 pts, r/Coaching (8 clients from 15 Reddit posts): https://www.reddit.com/r/Coaching/comments/1pkj6kl/signing_8_coaching_clients_from_15_reddit_posts/
+- 32 pts, r/TikTokshop (remake the first video that sells): https://www.reddit.com/r/TikTokshop/comments/1vluww9/are_you_actually_making_money/
+- 27 pts, r/ClothingStartups (hoodie brand content mix): https://www.reddit.com/r/ClothingStartups/comments/1oas6d5/anyone_with_a_successful_clothing_brand_please/
+- 25 pts, r/sweatystartup (mom-group commenting before pitching): https://www.reddit.com/r/sweatystartup/comments/1t9m4la/residential_cleaning_google_lsa/
+- 22 pts, r/lifecoaching (viral LinkedIn post, 6 clients): https://www.reddit.com/r/lifecoaching/comments/1i3gkf9/is_social_media_necessary_to_start_a_coaching/
+
+Pinterest threads from r/juststart and r/passive_income cited here are listed in full in the `digital-products` skill's sources.
