@@ -104,6 +104,8 @@ Templates from the Nov 2026 research report (recommended structures, not platfor
 
 **Reference library method.** Pick 5 established accounts (50K+) and 5 fast-growing small ones (under 10K) in the niche; log format, opening line, visual hook and CTA in a sheet; adapt structures, never copy scripts (r/InstagramMarketing, 69 pts). Filter references by engagement and effort: likes at 5%+ of views, comments at 1%+ of views, and a format you can shoot in under an hour (r/InstagramMarketing, 167 pts). On LinkedIn study breakout posts from 3,000 to 20,000-follower accounts (100 to 200% above their own norm), because large influencers' numbers may be pod-inflated (r/LinkedInTips, 83 pts).
 
+**TikTok Creative Center** is a free trend board TikTok built for advertisers: trending hashtags, songs, creators and videos by region and time frame, plus a Top Ads dashboard filtered by country, industry and objective ([TikTok](https://ads.tiktok.com/help/article/how-to-use-trends)). Hunt a format that repeats across several unrelated creators, not one viral video, then make your own version for your niche and test a few variations (Vid, [X post](https://x.com/MethodByVid/status/2087230566328672548)). The same post's claims that YouTube Shorts runs about three weeks behind TikTok and that formats last 6 to 8 weeks are reported by the author, not independently checked.
+
 ## Captions and social search
 
 - **First line = the phrase your buyer would search.** "Instagram analytics for small creators" instead of "#instagramanalytics #smallcreator". Operators report search discovery "noticeably" up after the switch (r/InstagramMarketing, 139 pts). Say the same phrase in the first spoken sentence and put it on screen.

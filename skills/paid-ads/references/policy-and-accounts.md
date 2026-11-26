@@ -93,5 +93,6 @@ Read-only by default. A write needs (AgriciDaniel mutation gate, MIT):
 - the owner's approval of the exact plan and spend ceilings;
 - an audit record, a rollback plan and a verification time;
 - pause or archive rather than delete; never permanent deletion.
+- hard limits the agent cannot exceed: a total spend limit, a daily cap and a maximum budget step per change. One public Claude Code skill for Meta ads uses +20% per change and logs every approval (Tobi, [X post](https://x.com/tobiadonadon_/status/2116291073886818736)); that is a practitioner guardrail, not a Meta rule, and its example result (cost per lead $3.15 to $1.84 in 4 weeks) is reported by the author, not independently checked.
 
 Create and duplicate paused. Activation, publishing and budget increases are separate approvals. Log every change where the owner can see it (a shared sheet of keyword and RSA changes works). Stage proposed changes for manual approval the way Google Ads Editor holds pending changes (a manager of 118 accounts, r/PPC).

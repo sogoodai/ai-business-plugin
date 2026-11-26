@@ -152,6 +152,16 @@ Evidence gaps the research could not fill (keep them as experiments, never as ru
 - alirezarezvani/claude-skills, MIT, https://github.com/alirezarezvani/claude-skills: account health weights (customer-success-manager), free tool strategy outline.
 - Heuresis Growth-Operator-Agency: proprietary license, not used.
 
+## X posts (reviewed 26 November 2026)
+
+Claims checked against the primary source where one exists; the rest are labelled reported in the text.
+
+- Marie Martens (Tally cofounder), asking AI-referred users for their prompt: https://x.com/MarieMartens/status/2125530130126680303
+- Elliot Garreffa, Google Connected Apps (reach claim not supported by Google's post): https://x.com/elliot_garreffa/status/2116127839967645789
+- Google, Build and manage Connected Apps in one place, 28 October 2026: https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/
+- Pavel Durov, Telegram's App Store removal, reported: https://x.com/durov/status/2084686326540996625
+- Apple, App Review Guidelines 1.2 User-Generated Content: https://developer.apple.com/app-store/review/guidelines/#user-generated-content
+
 ## Reddit practitioner threads
 
 The practitioner tactics come from 685 threads with usable tactics (1,640 tactics extracted from 1,350 scraped threads, November 2026). Subreddits: r/EntrepreneurRideAlong, r/SaaS, r/microsaas, r/indiehackers, r/buildinpublic, r/AppBusiness, r/startups, r/SideProject, r/iOSProgramming, r/androiddev. Upvotes at scrape time. Many top threads are founder self-reports; the skill marks them "operators report".

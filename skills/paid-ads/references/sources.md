@@ -109,6 +109,12 @@ Messaging and policy summaries (secondary, verify against Meta)
 - fourteenwm/ppc-ai-skills (named by practitioners on r/PPC for search-term mining; not harvested).
 - irinabuht12-oss/marketing-skills: no license, ideas only (overlap bands, CPA spike decomposition); nothing copied.
 
+## X posts (reviewed 26 November 2026)
+
+Claims checked against the primary source where one exists; the rest are labelled reported in the text.
+
+- Tobi, Claude Code skill for Meta ads with spend limit, daily cap and +20% step per change; result reported: https://x.com/tobiadonadon_/status/2116291073886818736
+
 ## Reddit practitioner threads
 
 Threads the practitioner tactics were extracted from: every thread with at least one extracted tactic from r/FacebookAds, r/PPC, r/GoogleAds, r/DigitalMarketing, r/marketing, r/socialmedia, r/Emailmarketing and r/copywriting, plus threads with paid-ads tactics from the ecommerce, local services, education and restaurant subreddits (scraped November 2026; upvotes at scrape time). Titles are URL slugs.

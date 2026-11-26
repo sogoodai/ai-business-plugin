@@ -102,6 +102,15 @@ Read 13 November 2026 as untrusted data; nothing executed. MIT and Apache-2.0 co
 | zubair-trabzada/geo-seo-claude | MIT | Read only; its GPTBot and llms.txt claims contradict OpenAI and Google documentation and were not used |
 | unifapi-agent/agents (ai-visibility-audit geo-methodology) | MIT | AI visibility metrics: per-engine mention and citation rates, compare only cells observed in both runs |
 
+## X posts (reviewed 26 November 2026)
+
+Claims checked against the primary source where one exists; the rest are labelled reported in the text.
+
+- Marie Martens (Tally cofounder), asking AI-referred users for their prompt, 43% figure reported: https://x.com/MarieMartens/status/2125530130126680303
+- Tim Bennetto, joining Pages.csv and Queries.csv (the method corrected in measurement.md): https://x.com/Timb03/status/2086608189894840595
+- Google Search Central, Search Console performance data filtering and limits (1,000-row UI export): https://developers.google.com/search/blog/2022/10/performance-data-deep-dive
+- Google, Search Analytics API query method (page and query dimensions, rowLimit up to 25,000): https://developers.google.com/webmaster-tools/v1/searchanalytics/query
+
 ## Practitioner threads (Reddit)
 
 Pulled from r/juststart, r/blogging, r/SEO, r/TechSEO, r/content_marketing and r/bigseo: 842 threads, 1,157 extracted tactics, all read. Listed below: the 467 threads whose tactics are cited or digested in this skill, sorted by post upvotes at scrape time. In the text, "(r/sub, N)" gives the subreddit and the post's upvotes. Results are self-reported unless the thread shows data; many content-site case studies predate the 2024 updates.

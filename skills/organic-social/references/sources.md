@@ -77,6 +77,13 @@ Evidence grades: A = platform documentation, engineering posts, executive statem
 - anthropics/knowledge-work-plugins, small-business `social-content-engine` and `content-strategy` (Apache-2.0): sustainable cadence by team size, theme mix, caption rules, voice re-anchoring, sales-data content brief. Changed: condensed, merged with platform data and Reddit evidence. https://github.com/anthropics/knowledge-work-plugins
 - Ideas only, no text reused: Heuresis Growth-Operator-Agency LinkedIn and short-form agents (proprietary license).
 
+## X posts (reviewed 26 November 2026)
+
+Claims checked against the primary source where one exists; the rest are labelled reported in the text.
+
+- Vid, TikTok Creative Center format hunting; lag and format-lifespan claims reported: https://x.com/MethodByVid/status/2087230566328672548
+- TikTok Ads Manager Help, How to use Trends (Creative Center): https://ads.tiktok.com/help/article/how-to-use-trends
+
 ## Reddit practitioner threads
 
 Threads from the organic-social scrape (r/InstagramMarketing, r/socialmedia, r/youtubers, r/LinkedInTips, r/content_marketing, r/Instagram), sorted by upvotes, with the number of usable tactics each produced. Upvotes are the thread's score, not a vote on any single tactic.
